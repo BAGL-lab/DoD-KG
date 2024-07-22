@@ -1,0 +1,20 @@
+{
+  "name": "dod-kg-viz",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "crossfilter2": "^1.5.4",
+    "d3": "^7.9.0",
+    "d3-sankey": "^0.12.3",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}

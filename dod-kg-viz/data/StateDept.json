@@ -1,0 +1,744 @@
+{
+  "nodes": [
+    {
+      "id": "information environment summit",
+      "group": 5
+    },
+    {
+      "id": "patrick day embassy",
+      "group": 5
+    },
+    {
+      "id": "diplomats negotiated peace",
+      "group": 5
+    },
+    {
+      "id": "united states ireland",
+      "group": 5
+    },
+    {
+      "id": "house celebrate 25th",
+      "group": 5
+    },
+    {
+      "id": "happy stpatricksday today",
+      "group": 5
+    },
+    {
+      "id": "threats posed synthetic",
+      "group": 5
+    },
+    {
+      "id": "rt secblinken democracy",
+      "group": 5
+    },
+    {
+      "id": "flag raised nato",
+      "group": 5
+    },
+    {
+      "id": "hungary poland https",
+      "group": 5
+    },
+    {
+      "id": "infinite passport validity",
+      "group": 5
+    },
+    {
+      "id": "core st patrick",
+      "group": 5
+    },
+    {
+      "id": "czech republic hungary",
+      "group": 5
+    },
+    {
+      "id": "women vital contributions",
+      "group": 5
+    },
+    {
+      "id": "jamaica meet leaders",
+      "group": 5
+    },
+    {
+      "id": "ago nato alliance",
+      "group": 5
+    },
+    {
+      "id": "welcomed finland nato",
+      "group": 5
+    },
+    {
+      "id": "patrick day friendship",
+      "group": 5
+    },
+    {
+      "id": "temporary pier gaza",
+      "group": 5
+    },
+    {
+      "id": "jamaica prime minister",
+      "group": 5
+    },
+    {
+      "id": "potus learn irish",
+      "group": 5
+    },
+    {
+      "id": "session commission narcotic",
+      "group": 5
+    },
+    {
+      "id": "summit democracy seoul",
+      "group": 5
+    },
+    {
+      "id": "secblinken democracy https",
+      "group": 5
+    },
+    {
+      "id": "sudan humanitarian crisis",
+      "group": 5
+    },
+    {
+      "id": "ireland patron saint",
+      "group": 5
+    },
+    {
+      "id": "narcotic drugs austria",
+      "group": 5
+    },
+    {
+      "id": "caribbean region caricomorg",
+      "group": 5
+    },
+    {
+      "id": "security crisis haiti",
+      "group": 5
+    },
+    {
+      "id": "celebrate stpatricksday feast",
+      "group": 5
+    },
+    {
+      "id": "need ahead fentanyl",
+      "group": 5
+    },
+    {
+      "id": "female 2024 usscienceenvoy",
+      "group": 5
+    },
+    {
+      "id": "press briefing state",
+      "group": 5
+    },
+    {
+      "id": "narcotic drugs event",
+      "group": 5
+    },
+    {
+      "id": "support people haiti",
+      "group": 5
+    },
+    {
+      "id": "commission narcotic drugs",
+      "group": 5
+    },
+    {
+      "id": "history accession czech",
+      "group": 5
+    },
+    {
+      "id": "day embassy dublin",
+      "group": 5
+    },
+    {
+      "id": "dublin https ginhkixdvc",
+      "group": 5
+    },
+    {
+      "id": "caricomorg political security",
+      "group": 5
+    },
+    {
+      "id": "including fentanyl criti",
+      "group": 5
+    },
+    {
+      "id": "courageous women iwoc2024",
+      "group": 5
+    },
+    {
+      "id": "americans background celebrate",
+      "group": 5
+    },
+    {
+      "id": "held republic korea",
+      "group": 5
+    },
+    {
+      "id": "narcotic drugs vienna",
+      "group": 5
+    },
+    {
+      "id": "hungary poland key",
+      "group": 5
+    },
+    {
+      "id": "surge humanitarian assistance",
+      "group": 5
+    },
+    {
+      "id": "friendship history irish",
+      "group": 5
+    },
+    {
+      "id": "democracy https ztdcbg3q7r",
+      "group": 5
+    },
+    {
+      "id": "dependence smaller illicit",
+      "group": 5
+    },
+    {
+      "id": "synthetic drugs crisis",
+      "group": 5
+    },
+    {
+      "id": "press state department",
+      "group": 5
+    },
+    {
+      "id": "diplomacy development essential",
+      "group": 5
+    },
+    {
+      "id": "armed gangs haiti",
+      "group": 5
+    },
+    {
+      "id": "illicit market drugs",
+      "group": 5
+    },
+    {
+      "id": "stronger accession czechia",
+      "group": 5
+    },
+    {
+      "id": "haitians wait longer",
+      "group": 5
+    },
+    {
+      "id": "secblinken headed jamaica",
+      "group": 5
+    },
+    {
+      "id": "rt secblinken haitians",
+      "group": 5
+    },
+    {
+      "id": "synthetic drug crisis",
+      "group": 5
+    },
+    {
+      "id": "passports valid 10",
+      "group": 5
+    },
+    {
+      "id": "happy st patrick",
+      "group": 5
+    },
+    {
+      "id": "alliance stronger accession",
+      "group": 5
+    },
+    {
+      "id": "assistance gaza protecting",
+      "group": 5
+    },
+    {
+      "id": "secblinken grateful teams",
+      "group": 5
+    },
+    {
+      "id": "secblinken delivers remarks",
+      "group": 5
+    },
+    {
+      "id": "resilient information environment",
+      "group": 5
+    }
+  ],
+  "links": [
+    {
+      "source": "sudan humanitarian crisis",
+      "target": "surge humanitarian assistance",
+      "value": 0.5378987789154053
+    },
+    {
+      "source": "press briefing state",
+      "target": "press briefing state",
+      "value": 1.0
+    },
+    {
+      "source": "press briefing state",
+      "target": "press state department",
+      "value": 0.6746380925178528
+    },
+    {
+      "source": "press briefing state",
+      "target": "press briefing state",
+      "value": 1.0
+    },
+    {
+      "source": "rt secblinken democracy",
+      "target": "democracy https ztdcbg3q7r",
+      "value": 0.5765310525894165
+    },
+    {
+      "source": "rt secblinken democracy",
+      "target": "secblinken democracy https",
+      "value": 0.725252091884613
+    },
+    {
+      "source": "democracy https ztdcbg3q7r",
+      "target": "secblinken democracy https",
+      "value": 0.7479419708251953
+    },
+    {
+      "source": "held republic korea",
+      "target": "summit democracy seoul",
+      "value": 0.6696681976318359
+    },
+    {
+      "source": "held republic korea",
+      "target": "summit democracy seoul",
+      "value": 0.6696681976318359
+    },
+    {
+      "source": "held republic korea",
+      "target": "summit democracy seoul",
+      "value": 0.6696681976318359
+    },
+    {
+      "source": "summit democracy seoul",
+      "target": "summit democracy seoul",
+      "value": 1.0
+    },
+    {
+      "source": "summit democracy seoul",
+      "target": "summit democracy seoul",
+      "value": 1.0
+    },
+    {
+      "source": "information environment summit",
+      "target": "resilient information environment",
+      "value": 0.5044125914573669
+    },
+    {
+      "source": "summit democracy seoul",
+      "target": "summit democracy seoul",
+      "value": 1.0
+    },
+    {
+      "source": "secblinken headed jamaica",
+      "target": "rt secblinken haitians",
+      "value": 0.5389881134033203
+    },
+    {
+      "source": "secblinken headed jamaica",
+      "target": "jamaica prime minister",
+      "value": 0.6329352855682373
+    },
+    {
+      "source": "secblinken headed jamaica",
+      "target": "jamaica meet leaders",
+      "value": 0.6102216243743896
+    },
+    {
+      "source": "flag raised nato",
+      "target": "ago nato alliance",
+      "value": 0.6753705739974976
+    },
+    {
+      "source": "flag raised nato",
+      "target": "welcomed finland nato",
+      "value": 0.5965487360954285
+    },
+    {
+      "source": "day embassy dublin",
+      "target": "patrick day embassy",
+      "value": 0.7377471327781677
+    },
+    {
+      "source": "day embassy dublin",
+      "target": "dublin https ginhkixdvc",
+      "value": 0.5450542569160461
+    },
+    {
+      "source": "day embassy dublin",
+      "target": "united states ireland",
+      "value": 0.5228094458580017
+    },
+    {
+      "source": "patrick day embassy",
+      "target": "patrick day friendship",
+      "value": 0.5894349217414856
+    },
+    {
+      "source": "dublin https ginhkixdvc",
+      "target": "united states ireland",
+      "value": 0.522737979888916
+    },
+    {
+      "source": "happy st patrick",
+      "target": "patrick day friendship",
+      "value": 0.5632990598678589
+    },
+    {
+      "source": "happy st patrick",
+      "target": "core st patrick",
+      "value": 0.6740013360977173
+    },
+    {
+      "source": "happy st patrick",
+      "target": "celebrate stpatricksday feast",
+      "value": 0.5695598125457764
+    },
+    {
+      "source": "happy st patrick",
+      "target": "ireland patron saint",
+      "value": 0.54690021276474
+    },
+    {
+      "source": "happy st patrick",
+      "target": "happy stpatricksday today",
+      "value": 0.7022075653076172
+    },
+    {
+      "source": "patrick day friendship",
+      "target": "core st patrick",
+      "value": 0.5093411207199097
+    },
+    {
+      "source": "patrick day friendship",
+      "target": "friendship history irish",
+      "value": 0.5790168642997742
+    },
+    {
+      "source": "core st patrick",
+      "target": "ireland patron saint",
+      "value": 0.5512604713439941
+    },
+    {
+      "source": "celebrate stpatricksday feast",
+      "target": "happy stpatricksday today",
+      "value": 0.7147348523139954
+    },
+    {
+      "source": "ireland patron saint",
+      "target": "potus learn irish",
+      "value": 0.5206738710403442
+    },
+    {
+      "source": "ireland patron saint",
+      "target": "friendship history irish",
+      "value": 0.5171462297439575
+    },
+    {
+      "source": "americans background celebrate",
+      "target": "house celebrate 25th",
+      "value": 0.5203012228012085
+    },
+    {
+      "source": "potus learn irish",
+      "target": "friendship history irish",
+      "value": 0.5267335772514343
+    },
+    {
+      "source": "secblinken grateful teams",
+      "target": "secblinken delivers remarks",
+      "value": 0.5488373041152954
+    },
+    {
+      "source": "illicit market drugs",
+      "target": "dependence smaller illicit",
+      "value": 0.501798152923584
+    },
+    {
+      "source": "illicit market drugs",
+      "target": "synthetic drug crisis",
+      "value": 0.6060527563095093
+    },
+    {
+      "source": "illicit market drugs",
+      "target": "commission narcotic drugs",
+      "value": 0.5597407817840576
+    },
+    {
+      "source": "illicit market drugs",
+      "target": "synthetic drugs crisis",
+      "value": 0.6158517599105835
+    },
+    {
+      "source": "illicit market drugs",
+      "target": "narcotic drugs vienna",
+      "value": 0.5692664980888367
+    },
+    {
+      "source": "illicit market drugs",
+      "target": "narcotic drugs austria",
+      "value": 0.5746549367904663
+    },
+    {
+      "source": "threats posed synthetic",
+      "target": "synthetic drug crisis",
+      "value": 0.6130577325820923
+    },
+    {
+      "source": "threats posed synthetic",
+      "target": "synthetic drugs crisis",
+      "value": 0.6021079421043396
+    },
+    {
+      "source": "need ahead fentanyl",
+      "target": "including fentanyl criti",
+      "value": 0.729205846786499
+    },
+    {
+      "source": "synthetic drug crisis",
+      "target": "synthetic drugs crisis",
+      "value": 0.9909793734550476
+    },
+    {
+      "source": "including fentanyl criti",
+      "target": "narcotic drugs vienna",
+      "value": 0.5149936676025391
+    },
+    {
+      "source": "including fentanyl criti",
+      "target": "narcotic drugs austria",
+      "value": 0.5043287873268127
+    },
+    {
+      "source": "commission narcotic drugs",
+      "target": "narcotic drugs event",
+      "value": 0.754841685295105
+    },
+    {
+      "source": "commission narcotic drugs",
+      "target": "narcotic drugs vienna",
+      "value": 0.7493696212768555
+    },
+    {
+      "source": "commission narcotic drugs",
+      "target": "session commission narcotic",
+      "value": 0.831398606300354
+    },
+    {
+      "source": "commission narcotic drugs",
+      "target": "narcotic drugs austria",
+      "value": 0.7551971673965454
+    },
+    {
+      "source": "narcotic drugs event",
+      "target": "narcotic drugs vienna",
+      "value": 0.715735673904419
+    },
+    {
+      "source": "narcotic drugs event",
+      "target": "session commission narcotic",
+      "value": 0.6247444748878479
+    },
+    {
+      "source": "narcotic drugs event",
+      "target": "narcotic drugs austria",
+      "value": 0.7342075705528259
+    },
+    {
+      "source": "narcotic drugs vienna",
+      "target": "session commission narcotic",
+      "value": 0.575148344039917
+    },
+    {
+      "source": "narcotic drugs vienna",
+      "target": "narcotic drugs austria",
+      "value": 0.9450459480285645
+    },
+    {
+      "source": "session commission narcotic",
+      "target": "narcotic drugs austria",
+      "value": 0.5787737369537354
+    },
+    {
+      "source": "infinite passport validity",
+      "target": "passports valid 10",
+      "value": 0.6258965730667114
+    },
+    {
+      "source": "press briefing state",
+      "target": "press state department",
+      "value": 0.6746380925178528
+    },
+    {
+      "source": "press briefing state",
+      "target": "press briefing state",
+      "value": 1.0
+    },
+    {
+      "source": "temporary pier gaza",
+      "target": "assistance gaza protecting",
+      "value": 0.6601758003234863
+    },
+    {
+      "source": "female 2024 usscienceenvoy",
+      "target": "courageous women iwoc2024",
+      "value": 0.5188613533973694
+    },
+    {
+      "source": "press state department",
+      "target": "press briefing state",
+      "value": 0.6746380925178528
+    },
+    {
+      "source": "women vital contributions",
+      "target": "courageous women iwoc2024",
+      "value": 0.5531456470489502
+    },
+    {
+      "source": "diplomats negotiated peace",
+      "target": "diplomacy development essential",
+      "value": 0.5896644592285156
+    },
+    {
+      "source": "ago nato alliance",
+      "target": "alliance stronger accession",
+      "value": 0.6035200953483582
+    },
+    {
+      "source": "ago nato alliance",
+      "target": "welcomed finland nato",
+      "value": 0.6610405445098877
+    },
+    {
+      "source": "stronger accession czechia",
+      "target": "alliance stronger accession",
+      "value": 0.5446408987045288
+    },
+    {
+      "source": "stronger accession czechia",
+      "target": "history accession czech",
+      "value": 0.8480982780456543
+    },
+    {
+      "source": "stronger accession czechia",
+      "target": "czech republic hungary",
+      "value": 0.5840508937835693
+    },
+    {
+      "source": "hungary poland https",
+      "target": "czech republic hungary",
+      "value": 0.6189233064651489
+    },
+    {
+      "source": "hungary poland https",
+      "target": "hungary poland key",
+      "value": 0.7042566537857056
+    },
+    {
+      "source": "history accession czech",
+      "target": "czech republic hungary",
+      "value": 0.5953500270843506
+    },
+    {
+      "source": "czech republic hungary",
+      "target": "hungary poland key",
+      "value": 0.6042523384094238
+    },
+    {
+      "source": "security crisis haiti",
+      "target": "haitians wait longer",
+      "value": 0.5436869859695435
+    },
+    {
+      "source": "security crisis haiti",
+      "target": "rt secblinken haitians",
+      "value": 0.5059306621551514
+    },
+    {
+      "source": "security crisis haiti",
+      "target": "support people haiti",
+      "value": 0.6273541450500488
+    },
+    {
+      "source": "security crisis haiti",
+      "target": "armed gangs haiti",
+      "value": 0.6925768256187439
+    },
+    {
+      "source": "security crisis haiti",
+      "target": "security crisis haiti",
+      "value": 1.0
+    },
+    {
+      "source": "haitians wait longer",
+      "target": "rt secblinken haitians",
+      "value": 0.631999135017395
+    },
+    {
+      "source": "haitians wait longer",
+      "target": "support people haiti",
+      "value": 0.60526442527771
+    },
+    {
+      "source": "haitians wait longer",
+      "target": "armed gangs haiti",
+      "value": 0.5438438653945923
+    },
+    {
+      "source": "haitians wait longer",
+      "target": "security crisis haiti",
+      "value": 0.5436869859695435
+    },
+    {
+      "source": "rt secblinken haitians",
+      "target": "support people haiti",
+      "value": 0.5641998052597046
+    },
+    {
+      "source": "rt secblinken haitians",
+      "target": "armed gangs haiti",
+      "value": 0.5450186729431152
+    },
+    {
+      "source": "rt secblinken haitians",
+      "target": "security crisis haiti",
+      "value": 0.5059306621551514
+    },
+    {
+      "source": "jamaica prime minister",
+      "target": "jamaica meet leaders",
+      "value": 0.6738285422325134
+    },
+    {
+      "source": "support people haiti",
+      "target": "armed gangs haiti",
+      "value": 0.6435012817382812
+    },
+    {
+      "source": "support people haiti",
+      "target": "security crisis haiti",
+      "value": 0.6273541450500488
+    },
+    {
+      "source": "armed gangs haiti",
+      "target": "security crisis haiti",
+      "value": 0.6925768256187439
+    },
+    {
+      "source": "caribbean region caricomorg",
+      "target": "caricomorg political security",
+      "value": 0.5407413244247437
+    }
+  ]
+}

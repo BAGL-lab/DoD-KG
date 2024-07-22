@@ -1,0 +1,626 @@
+{
+  "nodes": [
+    {
+      "id": "norwegian 35 lightning",
+      "group": 7
+    },
+    {
+      "id": "humanitarian airdrops contribute",
+      "group": 7
+    },
+    {
+      "id": "sweden participate nordicresponse24",
+      "group": 7
+    },
+    {
+      "id": "deliver airpower anytimeanywhere",
+      "group": 7
+    },
+    {
+      "id": "pacaf strengthening bonds",
+      "group": 7
+    },
+    {
+      "id": "female service chief",
+      "group": 7
+    },
+    {
+      "id": "alliesandpartners https ktbqrddmeq",
+      "group": 7
+    },
+    {
+      "id": "octane weekend daytona",
+      "group": 7
+    },
+    {
+      "id": "interoperability collaborated jasdf_pao_eng",
+      "group": 7
+    },
+    {
+      "id": "beale air force",
+      "group": 7
+    },
+    {
+      "id": "usairforce chief staff",
+      "group": 7
+    },
+    {
+      "id": "allies sweden https",
+      "group": 7
+    },
+    {
+      "id": "airpower anytimeanywhere https",
+      "group": 7
+    },
+    {
+      "id": "mobility airmen ensure",
+      "group": 7
+    },
+    {
+      "id": "like 57th rescue",
+      "group": 7
+    },
+    {
+      "id": "task force missions",
+      "group": 7
+    },
+    {
+      "id": "air force research",
+      "group": 7
+    },
+    {
+      "id": "pacificmarines bilateral tra",
+      "group": 7
+    },
+    {
+      "id": "calguard airmen 163atkw",
+      "group": 7
+    },
+    {
+      "id": "nato ally usairforce",
+      "group": 7
+    },
+    {
+      "id": "gen allvin spoke",
+      "group": 7
+    },
+    {
+      "id": "rt usafcent commend",
+      "group": 7
+    },
+    {
+      "id": "fly alliesandpartners https",
+      "group": 7
+    },
+    {
+      "id": "air force ranger",
+      "group": 7
+    },
+    {
+      "id": "icymi gen allvin",
+      "group": 7
+    },
+    {
+      "id": "170th air refueling",
+      "group": 7
+    },
+    {
+      "id": "airmen 57th rescue",
+      "group": 7
+    },
+    {
+      "id": "v\u00e4lkommen allies sweden",
+      "group": 7
+    },
+    {
+      "id": "arrived norway amp",
+      "group": 7
+    },
+    {
+      "id": "usaf continues evolve",
+      "group": 7
+    },
+    {
+      "id": "tuskegee airmen 301st",
+      "group": 7
+    },
+    {
+      "id": "medevac anytimeanywhere https",
+      "group": 7
+    },
+    {
+      "id": "rt hqusafeafaf usafreserve",
+      "group": 7
+    },
+    {
+      "id": "airmen mission ready",
+      "group": 7
+    },
+    {
+      "id": "refuels norwegian 35",
+      "group": 7
+    },
+    {
+      "id": "collaborated jasdf_pao_eng pacificmarines",
+      "group": 7
+    },
+    {
+      "id": "force rangers stan",
+      "group": 7
+    },
+    {
+      "id": "line tuskegee airmen",
+      "group": 7
+    },
+    {
+      "id": "njnationalguard 108th wing",
+      "group": 7
+    },
+    {
+      "id": "airman development command",
+      "group": 7
+    },
+    {
+      "id": "tuskegee airmen african",
+      "group": 7
+    },
+    {
+      "id": "squadron swedish air",
+      "group": 7
+    },
+    {
+      "id": "known tuskegee airmen",
+      "group": 7
+    },
+    {
+      "id": "chief master sergeant",
+      "group": 7
+    },
+    {
+      "id": "offutt_afb amp uscis",
+      "group": 7
+    },
+    {
+      "id": "air bases operations",
+      "group": 7
+    },
+    {
+      "id": "air university wing",
+      "group": 7
+    },
+    {
+      "id": "weekend daytona https",
+      "group": 7
+    },
+    {
+      "id": "daf selected beale",
+      "group": 7
+    },
+    {
+      "id": "rescue squadron swedish",
+      "group": 7
+    },
+    {
+      "id": "high octane weekend",
+      "group": 7
+    },
+    {
+      "id": "day fly alliesandpartners",
+      "group": 7
+    },
+    {
+      "id": "air force changing",
+      "group": 7
+    },
+    {
+      "id": "rt navalwarcollege warm",
+      "group": 7
+    },
+    {
+      "id": "air force assistance",
+      "group": 7
+    },
+    {
+      "id": "deliver airpower anytime",
+      "group": 7
+    },
+    {
+      "id": "strengthening bonds interoperability",
+      "group": 7
+    },
+    {
+      "id": "soldiers today airdrop",
+      "group": 7
+    },
+    {
+      "id": "daytona https vd791oljug",
+      "group": 7
+    },
+    {
+      "id": "airmen ensure deliver",
+      "group": 7
+    }
+  ],
+  "links": [
+    {
+      "source": "humanitarian airdrops contribute",
+      "target": "soldiers today airdrop",
+      "value": 0.7046352028846741
+    },
+    {
+      "source": "njnationalguard 108th wing",
+      "target": "calguard airmen 163atkw",
+      "value": 0.5203593969345093
+    },
+    {
+      "source": "170th air refueling",
+      "target": "refuels norwegian 35",
+      "value": 0.540891170501709
+    },
+    {
+      "source": "beale air force",
+      "target": "daf selected beale",
+      "value": 0.5392675399780273
+    },
+    {
+      "source": "beale air force",
+      "target": "squadron swedish air",
+      "value": 0.5163692235946655
+    },
+    {
+      "source": "beale air force",
+      "target": "air force ranger",
+      "value": 0.5764731168746948
+    },
+    {
+      "source": "beale air force",
+      "target": "air force changing",
+      "value": 0.5112534165382385
+    },
+    {
+      "source": "beale air force",
+      "target": "air force assistance",
+      "value": 0.501514196395874
+    },
+    {
+      "source": "deliver airpower anytime",
+      "target": "deliver airpower anytimeanywhere",
+      "value": 0.9317435026168823
+    },
+    {
+      "source": "deliver airpower anytime",
+      "target": "airpower anytimeanywhere https",
+      "value": 0.6269654035568237
+    },
+    {
+      "source": "pacificmarines bilateral tra",
+      "target": "collaborated jasdf_pao_eng pacificmarines",
+      "value": 0.53596031665802
+    },
+    {
+      "source": "interoperability collaborated jasdf_pao_eng",
+      "target": "strengthening bonds interoperability",
+      "value": 0.5594141483306885
+    },
+    {
+      "source": "interoperability collaborated jasdf_pao_eng",
+      "target": "collaborated jasdf_pao_eng pacificmarines",
+      "value": 0.5726977586746216
+    },
+    {
+      "source": "strengthening bonds interoperability",
+      "target": "pacaf strengthening bonds",
+      "value": 0.5082278847694397
+    },
+    {
+      "source": "rescue squadron swedish",
+      "target": "squadron swedish air",
+      "value": 0.8055334091186523
+    },
+    {
+      "source": "rescue squadron swedish",
+      "target": "v\u00e4lkommen allies sweden",
+      "value": 0.5140174627304077
+    },
+    {
+      "source": "force rangers stan",
+      "target": "air force ranger",
+      "value": 0.5560138821601868
+    },
+    {
+      "source": "like 57th rescue",
+      "target": "airmen 57th rescue",
+      "value": 0.7695459127426147
+    },
+    {
+      "source": "airmen mission ready",
+      "target": "task force missions",
+      "value": 0.6021181344985962
+    },
+    {
+      "source": "airmen mission ready",
+      "target": "offutt_afb amp uscis",
+      "value": 0.5069721341133118
+    },
+    {
+      "source": "airmen mission ready",
+      "target": "air force assistance",
+      "value": 0.5421886444091797
+    },
+    {
+      "source": "airmen mission ready",
+      "target": "mobility airmen ensure",
+      "value": 0.5654059052467346
+    },
+    {
+      "source": "airmen mission ready",
+      "target": "airmen ensure deliver",
+      "value": 0.6263314485549927
+    },
+    {
+      "source": "air university wing",
+      "target": "squadron swedish air",
+      "value": 0.5665485858917236
+    },
+    {
+      "source": "air university wing",
+      "target": "air force research",
+      "value": 0.5487709045410156
+    },
+    {
+      "source": "nato ally usairforce",
+      "target": "usairforce chief staff",
+      "value": 0.5877536535263062
+    },
+    {
+      "source": "nato ally usairforce",
+      "target": "rt usafcent commend",
+      "value": 0.5003025531768799
+    },
+    {
+      "source": "squadron swedish air",
+      "target": "air force ranger",
+      "value": 0.5083636045455933
+    },
+    {
+      "source": "air force ranger",
+      "target": "air force changing",
+      "value": 0.5933983325958252
+    },
+    {
+      "source": "air force ranger",
+      "target": "air force assistance",
+      "value": 0.6193360090255737
+    },
+    {
+      "source": "air force ranger",
+      "target": "air force research",
+      "value": 0.6210615634918213
+    },
+    {
+      "source": "refuels norwegian 35",
+      "target": "norwegian 35 lightning",
+      "value": 0.5575252175331116
+    },
+    {
+      "source": "refuels norwegian 35",
+      "target": "arrived norway amp",
+      "value": 0.5304569602012634
+    },
+    {
+      "source": "norwegian 35 lightning",
+      "target": "arrived norway amp",
+      "value": 0.5005770921707153
+    },
+    {
+      "source": "air bases operations",
+      "target": "air force changing",
+      "value": 0.5669162273406982
+    },
+    {
+      "source": "air bases operations",
+      "target": "airman development command",
+      "value": 0.5268620252609253
+    },
+    {
+      "source": "air bases operations",
+      "target": "air force assistance",
+      "value": 0.5811793208122253
+    },
+    {
+      "source": "air bases operations",
+      "target": "air force research",
+      "value": 0.5774328112602234
+    },
+    {
+      "source": "rt navalwarcollege warm",
+      "target": "rt usafcent commend",
+      "value": 0.5161827802658081
+    },
+    {
+      "source": "v\u00e4lkommen allies sweden",
+      "target": "allies sweden https",
+      "value": 0.5808781385421753
+    },
+    {
+      "source": "allies sweden https",
+      "target": "sweden participate nordicresponse24",
+      "value": 0.5646459460258484
+    },
+    {
+      "source": "allies sweden https",
+      "target": "fly alliesandpartners https",
+      "value": 0.6779036521911621
+    },
+    {
+      "source": "allies sweden https",
+      "target": "alliesandpartners https ktbqrddmeq",
+      "value": 0.6021402478218079
+    },
+    {
+      "source": "female service chief",
+      "target": "chief master sergeant",
+      "value": 0.5585262775421143
+    },
+    {
+      "source": "rt hqusafeafaf usafreserve",
+      "target": "rt usafcent commend",
+      "value": 0.6608551740646362
+    },
+    {
+      "source": "rt hqusafeafaf usafreserve",
+      "target": "air force assistance",
+      "value": 0.5212534666061401
+    },
+    {
+      "source": "calguard airmen 163atkw",
+      "target": "tuskegee airmen 301st",
+      "value": 0.5679715871810913
+    },
+    {
+      "source": "calguard airmen 163atkw",
+      "target": "known tuskegee airmen",
+      "value": 0.5033411979675293
+    },
+    {
+      "source": "offutt_afb amp uscis",
+      "target": "rt usafcent commend",
+      "value": 0.5935906767845154
+    },
+    {
+      "source": "icymi gen allvin",
+      "target": "gen allvin spoke",
+      "value": 0.6374173760414124
+    },
+    {
+      "source": "air force changing",
+      "target": "air force assistance",
+      "value": 0.6790551543235779
+    },
+    {
+      "source": "air force changing",
+      "target": "usaf continues evolve",
+      "value": 0.6203027963638306
+    },
+    {
+      "source": "air force changing",
+      "target": "air force research",
+      "value": 0.6896376013755798
+    },
+    {
+      "source": "soldiers today airdrop",
+      "target": "air force assistance",
+      "value": 0.505443274974823
+    },
+    {
+      "source": "rt usafcent commend",
+      "target": "air force assistance",
+      "value": 0.5607081651687622
+    },
+    {
+      "source": "rt usafcent commend",
+      "target": "usaf continues evolve",
+      "value": 0.5329506993293762
+    },
+    {
+      "source": "airman development command",
+      "target": "air force assistance",
+      "value": 0.5036237239837646
+    },
+    {
+      "source": "airman development command",
+      "target": "air force research",
+      "value": 0.5356189012527466
+    },
+    {
+      "source": "line tuskegee airmen",
+      "target": "tuskegee airmen african",
+      "value": 0.7555037140846252
+    },
+    {
+      "source": "line tuskegee airmen",
+      "target": "tuskegee airmen 301st",
+      "value": 0.7259289026260376
+    },
+    {
+      "source": "line tuskegee airmen",
+      "target": "known tuskegee airmen",
+      "value": 0.7944478392601013
+    },
+    {
+      "source": "tuskegee airmen african",
+      "target": "tuskegee airmen 301st",
+      "value": 0.7522469758987427
+    },
+    {
+      "source": "tuskegee airmen african",
+      "target": "known tuskegee airmen",
+      "value": 0.8895763754844666
+    },
+    {
+      "source": "air force assistance",
+      "target": "air force research",
+      "value": 0.70786452293396
+    },
+    {
+      "source": "day fly alliesandpartners",
+      "target": "fly alliesandpartners https",
+      "value": 0.6047930717468262
+    },
+    {
+      "source": "fly alliesandpartners https",
+      "target": "alliesandpartners https ktbqrddmeq",
+      "value": 0.6695372462272644
+    },
+    {
+      "source": "fly alliesandpartners https",
+      "target": "airpower anytimeanywhere https",
+      "value": 0.6028482913970947
+    },
+    {
+      "source": "fly alliesandpartners https",
+      "target": "medevac anytimeanywhere https",
+      "value": 0.5082929730415344
+    },
+    {
+      "source": "tuskegee airmen 301st",
+      "target": "known tuskegee airmen",
+      "value": 0.8186295628547668
+    },
+    {
+      "source": "mobility airmen ensure",
+      "target": "airmen ensure deliver",
+      "value": 0.6445803642272949
+    },
+    {
+      "source": "deliver airpower anytimeanywhere",
+      "target": "airpower anytimeanywhere https",
+      "value": 0.7157331705093384
+    },
+    {
+      "source": "airpower anytimeanywhere https",
+      "target": "medevac anytimeanywhere https",
+      "value": 0.5063210129737854
+    },
+    {
+      "source": "octane weekend daytona",
+      "target": "weekend daytona https",
+      "value": 0.8325172662734985
+    },
+    {
+      "source": "octane weekend daytona",
+      "target": "high octane weekend",
+      "value": 0.6770259141921997
+    },
+    {
+      "source": "octane weekend daytona",
+      "target": "daytona https vd791oljug",
+      "value": 0.6328356266021729
+    },
+    {
+      "source": "weekend daytona https",
+      "target": "daytona https vd791oljug",
+      "value": 0.7582569122314453
+    }
+  ]
+}

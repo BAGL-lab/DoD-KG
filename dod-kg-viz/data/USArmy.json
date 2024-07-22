@@ -1,0 +1,785 @@
+{
+  "nodes": [
+    {
+      "id": "jungle training cobragold24",
+      "group": 6
+    },
+    {
+      "id": "squadron soldiers undergo",
+      "group": 6
+    },
+    {
+      "id": "arcticshock nato ally",
+      "group": 6
+    },
+    {
+      "id": "autonomous helicopters soldiers",
+      "group": 6
+    },
+    {
+      "id": "usarmy announced today",
+      "group": 6
+    },
+    {
+      "id": "nato ally norway",
+      "group": 6
+    },
+    {
+      "id": "train fight fight",
+      "group": 6
+    },
+    {
+      "id": "vessel usav general",
+      "group": 6
+    },
+    {
+      "id": "undersecarmy budget request",
+      "group": 6
+    },
+    {
+      "id": "aid delivery gaza",
+      "group": 6
+    },
+    {
+      "id": "11thairbornediv flew north",
+      "group": 6
+    },
+    {
+      "id": "usarmy engineers soldiers",
+      "group": 6
+    },
+    {
+      "id": "times capstoneconvergence 2022",
+      "group": 6
+    },
+    {
+      "id": "usarmy engineer school",
+      "group": 6
+    },
+    {
+      "id": "command usarmy ai",
+      "group": 6
+    },
+    {
+      "id": "fight fight train",
+      "group": 6
+    },
+    {
+      "id": "usarmy learn armyvalues",
+      "group": 6
+    },
+    {
+      "id": "wednesdaywisdom fulfill duties",
+      "group": 6
+    },
+    {
+      "id": "critical tech csis",
+      "group": 6
+    },
+    {
+      "id": "fellow soldiers loyalty",
+      "group": 6
+    },
+    {
+      "id": "budget request available",
+      "group": 6
+    },
+    {
+      "id": "capstone revolutionizing battlefield",
+      "group": 6
+    },
+    {
+      "id": "engage africanpartners strengthens",
+      "group": 6
+    },
+    {
+      "id": "completed times capstoneconvergence",
+      "group": 6
+    },
+    {
+      "id": "nasa_johnson rubio lieutenant",
+      "group": 6
+    },
+    {
+      "id": "mondaymotivation https 3qyasqr0gd",
+      "group": 6
+    },
+    {
+      "id": "2025 usarmy budget",
+      "group": 6
+    },
+    {
+      "id": "battlebots battle ucberkley",
+      "group": 6
+    },
+    {
+      "id": "aboard space_station congratulations",
+      "group": 6
+    },
+    {
+      "id": "foster new partnerships",
+      "group": 6
+    },
+    {
+      "id": "strongertogether means training",
+      "group": 6
+    },
+    {
+      "id": "undersecarmy https f1l1k6ccr6",
+      "group": 6
+    },
+    {
+      "id": "taking mini battlebots",
+      "group": 6
+    },
+    {
+      "id": "2025 budget request",
+      "group": 6
+    },
+    {
+      "id": "deptofdefense undersecarmy budget",
+      "group": 6
+    },
+    {
+      "id": "usarmy share insights",
+      "group": 6
+    },
+    {
+      "id": "fridayfeeling loved ones",
+      "group": 6
+    },
+    {
+      "id": "budget brief today",
+      "group": 6
+    },
+    {
+      "id": "support humanitarian aid",
+      "group": 6
+    },
+    {
+      "id": "congratulations 2024 armybestmedic",
+      "group": 6
+    },
+    {
+      "id": "fight train strongertogether",
+      "group": 6
+    },
+    {
+      "id": "2024 army vessel",
+      "group": 6
+    },
+    {
+      "id": "army astronaut device",
+      "group": 6
+    },
+    {
+      "id": "ally norway https",
+      "group": 6
+    },
+    {
+      "id": "congratulations usarmy soldiers",
+      "group": 6
+    },
+    {
+      "id": "usarmy released fiscal",
+      "group": 6
+    },
+    {
+      "id": "nasa_johnson incredible honor",
+      "group": 6
+    },
+    {
+      "id": "barracks installations priority",
+      "group": 6
+    },
+    {
+      "id": "usarmy nasa astronaut",
+      "group": 6
+    },
+    {
+      "id": "wednesdaywisdom stay faithful",
+      "group": 6
+    },
+    {
+      "id": "love usarmy soldiers",
+      "group": 6
+    },
+    {
+      "id": "secarmy nasa_astronauts nasa_es",
+      "group": 6
+    },
+    {
+      "id": "arctic agility 11thairbornediv",
+      "group": 6
+    },
+    {
+      "id": "arctic airborne brigade",
+      "group": 6
+    },
+    {
+      "id": "11thairbornediv learn arcticshock",
+      "group": 6
+    },
+    {
+      "id": "norway arctic angels",
+      "group": 6
+    },
+    {
+      "id": "exercise arcticshock kicked",
+      "group": 6
+    },
+    {
+      "id": "rt i_corps jungle",
+      "group": 6
+    },
+    {
+      "id": "specialized usarmy unit",
+      "group": 6
+    },
+    {
+      "id": "army medics grit",
+      "group": 6
+    },
+    {
+      "id": "plan https 0dyvk6jkvv",
+      "group": 6
+    }
+  ],
+  "links": [
+    {
+      "source": "arcticshock nato ally",
+      "target": "nato ally norway",
+      "value": 0.7355860471725464
+    },
+    {
+      "source": "arcticshock nato ally",
+      "target": "11thairbornediv learn arcticshock",
+      "value": 0.5718691349029541
+    },
+    {
+      "source": "arcticshock nato ally",
+      "target": "ally norway https",
+      "value": 0.5169883966445923
+    },
+    {
+      "source": "arcticshock nato ally",
+      "target": "arctic airborne brigade",
+      "value": 0.593620777130127
+    },
+    {
+      "source": "nato ally norway",
+      "target": "ally norway https",
+      "value": 0.7272601127624512
+    },
+    {
+      "source": "nato ally norway",
+      "target": "norway arctic angels",
+      "value": 0.5042304992675781
+    },
+    {
+      "source": "11thairbornediv learn arcticshock",
+      "target": "arctic airborne brigade",
+      "value": 0.5707733035087585
+    },
+    {
+      "source": "11thairbornediv learn arcticshock",
+      "target": "exercise arcticshock kicked",
+      "value": 0.582581639289856
+    },
+    {
+      "source": "11thairbornediv learn arcticshock",
+      "target": "11thairbornediv flew north",
+      "value": 0.6128338575363159
+    },
+    {
+      "source": "11thairbornediv learn arcticshock",
+      "target": "arctic agility 11thairbornediv",
+      "value": 0.7246901988983154
+    },
+    {
+      "source": "arctic airborne brigade",
+      "target": "norway arctic angels",
+      "value": 0.5468571186065674
+    },
+    {
+      "source": "arctic airborne brigade",
+      "target": "11thairbornediv flew north",
+      "value": 0.5015265941619873
+    },
+    {
+      "source": "arctic airborne brigade",
+      "target": "arctic agility 11thairbornediv",
+      "value": 0.6296937465667725
+    },
+    {
+      "source": "11thairbornediv flew north",
+      "target": "arctic agility 11thairbornediv",
+      "value": 0.5986877083778381
+    },
+    {
+      "source": "times capstoneconvergence 2022",
+      "target": "completed times capstoneconvergence",
+      "value": 0.8468666076660156
+    },
+    {
+      "source": "autonomous helicopters soldiers",
+      "target": "squadron soldiers undergo",
+      "value": 0.5151458978652954
+    },
+    {
+      "source": "undersecarmy https f1l1k6ccr6",
+      "target": "plan https 0dyvk6jkvv",
+      "value": 0.5166640281677246
+    },
+    {
+      "source": "2025 budget request",
+      "target": "budget request available",
+      "value": 0.7882091999053955
+    },
+    {
+      "source": "2025 budget request",
+      "target": "undersecarmy budget request",
+      "value": 0.5210318565368652
+    },
+    {
+      "source": "2025 budget request",
+      "target": "2025 usarmy budget",
+      "value": 0.8661758899688721
+    },
+    {
+      "source": "2025 budget request",
+      "target": "budget brief today",
+      "value": 0.5924693942070007
+    },
+    {
+      "source": "usarmy released fiscal",
+      "target": "usarmy announced today",
+      "value": 0.594550371170044
+    },
+    {
+      "source": "fridayfeeling loved ones",
+      "target": "wednesdaywisdom stay faithful",
+      "value": 0.5152764916419983
+    },
+    {
+      "source": "foster new partnerships",
+      "target": "engage africanpartners strengthens",
+      "value": 0.5354610085487366
+    },
+    {
+      "source": "jungle training cobragold24",
+      "target": "rt i_corps jungle",
+      "value": 0.6160718202590942
+    },
+    {
+      "source": "aid delivery gaza",
+      "target": "support humanitarian aid",
+      "value": 0.5923038721084595
+    },
+    {
+      "source": "specialized usarmy unit",
+      "target": "usarmy announced today",
+      "value": 0.5285398364067078
+    },
+    {
+      "source": "specialized usarmy unit",
+      "target": "usarmy engineers soldiers",
+      "value": 0.5734366178512573
+    },
+    {
+      "source": "specialized usarmy unit",
+      "target": "usarmy engineer school",
+      "value": 0.6016601324081421
+    },
+    {
+      "source": "capstone revolutionizing battlefield",
+      "target": "capstone revolutionizing battlefield",
+      "value": 1.0
+    },
+    {
+      "source": "wednesdaywisdom fulfill duties",
+      "target": "wednesdaywisdom stay faithful",
+      "value": 0.6921949982643127
+    },
+    {
+      "source": "usarmy learn armyvalues",
+      "target": "army medics grit",
+      "value": 0.5717967748641968
+    },
+    {
+      "source": "usarmy learn armyvalues",
+      "target": "usarmy engineers soldiers",
+      "value": 0.6064021587371826
+    },
+    {
+      "source": "usarmy learn armyvalues",
+      "target": "congratulations usarmy soldiers",
+      "value": 0.5992860794067383
+    },
+    {
+      "source": "usarmy learn armyvalues",
+      "target": "love usarmy soldiers",
+      "value": 0.6677054762840271
+    },
+    {
+      "source": "command usarmy ai",
+      "target": "usarmy announced today",
+      "value": 0.5227029323577881
+    },
+    {
+      "source": "battlebots battle ucberkley",
+      "target": "taking mini battlebots",
+      "value": 0.6668833494186401
+    },
+    {
+      "source": "vessel usav general",
+      "target": "2024 army vessel",
+      "value": 0.60673987865448
+    },
+    {
+      "source": "2024 army vessel",
+      "target": "congratulations 2024 armybestmedic",
+      "value": 0.5986450910568237
+    },
+    {
+      "source": "budget request available",
+      "target": "deptofdefense undersecarmy budget",
+      "value": 0.5038241147994995
+    },
+    {
+      "source": "budget request available",
+      "target": "undersecarmy budget request",
+      "value": 0.67121422290802
+    },
+    {
+      "source": "budget request available",
+      "target": "2025 usarmy budget",
+      "value": 0.5652357339859009
+    },
+    {
+      "source": "budget request available",
+      "target": "budget brief today",
+      "value": 0.659058690071106
+    },
+    {
+      "source": "deptofdefense undersecarmy budget",
+      "target": "undersecarmy budget request",
+      "value": 0.6417561769485474
+    },
+    {
+      "source": "critical tech csis",
+      "target": "critical tech csis",
+      "value": 1.0000001192092896
+    },
+    {
+      "source": "congratulations 2024 armybestmedic",
+      "target": "congratulations usarmy soldiers",
+      "value": 0.6718204617500305
+    },
+    {
+      "source": "usarmy share insights",
+      "target": "usarmy announced today",
+      "value": 0.5542335510253906
+    },
+    {
+      "source": "army medics grit",
+      "target": "usarmy engineers soldiers",
+      "value": 0.5254825353622437
+    },
+    {
+      "source": "fellow soldiers loyalty",
+      "target": "congratulations usarmy soldiers",
+      "value": 0.6039525270462036
+    },
+    {
+      "source": "fellow soldiers loyalty",
+      "target": "love usarmy soldiers",
+      "value": 0.6378318071365356
+    },
+    {
+      "source": "wednesdaywisdom stay faithful",
+      "target": "mondaymotivation https 3qyasqr0gd",
+      "value": 0.5068108439445496
+    },
+    {
+      "source": "strongertogether means training",
+      "target": "fight train strongertogether",
+      "value": 0.7632625102996826
+    },
+    {
+      "source": "barracks installations priority",
+      "target": "barracks installations priority",
+      "value": 1.000000238418579
+    },
+    {
+      "source": "fight train strongertogether",
+      "target": "fight fight train",
+      "value": 0.7731398344039917
+    },
+    {
+      "source": "fight train strongertogether",
+      "target": "train fight fight",
+      "value": 0.7389893531799316
+    },
+    {
+      "source": "fight fight train",
+      "target": "train fight fight",
+      "value": 0.9614177942276001
+    },
+    {
+      "source": "usarmy announced today",
+      "target": "congratulations usarmy soldiers",
+      "value": 0.5028089284896851
+    },
+    {
+      "source": "usarmy announced today",
+      "target": "usarmy engineer school",
+      "value": 0.5806634426116943
+    },
+    {
+      "source": "usarmy announced today",
+      "target": "usarmy nasa astronaut",
+      "value": 0.52643221616745
+    },
+    {
+      "source": "usarmy announced today",
+      "target": "usarmy nasa astronaut",
+      "value": 0.52643221616745
+    },
+    {
+      "source": "usarmy announced today",
+      "target": "usarmy nasa astronaut",
+      "value": 0.52643221616745
+    },
+    {
+      "source": "usarmy announced today",
+      "target": "love usarmy soldiers",
+      "value": 0.5159785747528076
+    },
+    {
+      "source": "usarmy engineers soldiers",
+      "target": "congratulations usarmy soldiers",
+      "value": 0.7093446850776672
+    },
+    {
+      "source": "usarmy engineers soldiers",
+      "target": "usarmy engineer school",
+      "value": 0.6735713481903076
+    },
+    {
+      "source": "usarmy engineers soldiers",
+      "target": "love usarmy soldiers",
+      "value": 0.7361267805099487
+    },
+    {
+      "source": "congratulations usarmy soldiers",
+      "target": "love usarmy soldiers",
+      "value": 0.8219176530838013
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "nasa_johnson rubio lieutenant",
+      "value": 0.6185516119003296
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5966576337814331
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "aboard space_station congratulations",
+      "value": 0.5263907313346863
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.5978642702102661
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5966576337814331
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "aboard space_station congratulations",
+      "value": 0.5263907313346863
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.5978642702102661
+    },
+    {
+      "source": "nasa_johnson incredible honor",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5966576337814331
+    },
+    {
+      "source": "nasa_johnson rubio lieutenant",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5633929967880249
+    },
+    {
+      "source": "nasa_johnson rubio lieutenant",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.6233783960342407
+    },
+    {
+      "source": "nasa_johnson rubio lieutenant",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5633929967880249
+    },
+    {
+      "source": "nasa_johnson rubio lieutenant",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.6233783960342407
+    },
+    {
+      "source": "nasa_johnson rubio lieutenant",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5633929967880249
+    },
+    {
+      "source": "army astronaut device",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5069538950920105
+    },
+    {
+      "source": "army astronaut device",
+      "target": "army astronaut device",
+      "value": 1.0000001192092896
+    },
+    {
+      "source": "army astronaut device",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5069538950920105
+    },
+    {
+      "source": "army astronaut device",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5069538950920105
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "army astronaut device",
+      "value": 0.5069538950920105
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "aboard space_station congratulations",
+      "value": 0.5014570355415344
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.6617082357406616
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "usarmy nasa astronaut",
+      "value": 0.9999998211860657
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "aboard space_station congratulations",
+      "value": 0.5014570355415344
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.6617082357406616
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "usarmy nasa astronaut",
+      "value": 0.9999998211860657
+    },
+    {
+      "source": "army astronaut device",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5069538950920105
+    },
+    {
+      "source": "army astronaut device",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5069538950920105
+    },
+    {
+      "source": "aboard space_station congratulations",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.5838000774383545
+    },
+    {
+      "source": "aboard space_station congratulations",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5014570355415344
+    },
+    {
+      "source": "aboard space_station congratulations",
+      "target": "aboard space_station congratulations",
+      "value": 1.0
+    },
+    {
+      "source": "aboard space_station congratulations",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.5838000774383545
+    },
+    {
+      "source": "aboard space_station congratulations",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5014570355415344
+    },
+    {
+      "source": "secarmy nasa_astronauts nasa_es",
+      "target": "usarmy nasa astronaut",
+      "value": 0.6617082357406616
+    },
+    {
+      "source": "secarmy nasa_astronauts nasa_es",
+      "target": "aboard space_station congratulations",
+      "value": 0.5838000774383545
+    },
+    {
+      "source": "secarmy nasa_astronauts nasa_es",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.9999998211860657
+    },
+    {
+      "source": "secarmy nasa_astronauts nasa_es",
+      "target": "usarmy nasa astronaut",
+      "value": 0.6617082357406616
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "aboard space_station congratulations",
+      "value": 0.5014570355415344
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.6617082357406616
+    },
+    {
+      "source": "usarmy nasa astronaut",
+      "target": "usarmy nasa astronaut",
+      "value": 0.9999998211860657
+    },
+    {
+      "source": "aboard space_station congratulations",
+      "target": "secarmy nasa_astronauts nasa_es",
+      "value": 0.5838000774383545
+    },
+    {
+      "source": "aboard space_station congratulations",
+      "target": "usarmy nasa astronaut",
+      "value": 0.5014570355415344
+    },
+    {
+      "source": "secarmy nasa_astronauts nasa_es",
+      "target": "usarmy nasa astronaut",
+      "value": 0.6617082357406616
+    }
+  ]
+}

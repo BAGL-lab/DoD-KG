@@ -1,0 +1,630 @@
+{
+  "nodes": [
+    {
+      "id": "flight 22 osprey",
+      "group": 1
+    },
+    {
+      "id": "dod construct pier",
+      "group": 1
+    },
+    {
+      "id": "joining forces mic",
+      "group": 1
+    },
+    {
+      "id": "news bipartisan funding",
+      "group": 1
+    },
+    {
+      "id": "pentagon official underscores",
+      "group": 1
+    },
+    {
+      "id": "live pentagonpressec air",
+      "group": 1
+    },
+    {
+      "id": "usmc understand effects",
+      "group": 1
+    },
+    {
+      "id": "news leaders discuss",
+      "group": 1
+    },
+    {
+      "id": "priorities western hemisphere",
+      "group": 1
+    },
+    {
+      "id": "news briefing pentagon",
+      "group": 1
+    },
+    {
+      "id": "leaders discuss security",
+      "group": 1
+    },
+    {
+      "id": "usmc sgt ana",
+      "group": 1
+    },
+    {
+      "id": "usmc trials nellisafb",
+      "group": 1
+    },
+    {
+      "id": "return flight 22",
+      "group": 1
+    },
+    {
+      "id": "issues wake americans",
+      "group": 1
+    },
+    {
+      "id": "legislation strengthen pacific",
+      "group": 1
+    },
+    {
+      "id": "pier deliver humanitarian",
+      "group": 1
+    },
+    {
+      "id": "report discounts sightings",
+      "group": 1
+    },
+    {
+      "id": "security priorities western",
+      "group": 1
+    },
+    {
+      "id": "witnessed usmc usairforce",
+      "group": 1
+    },
+    {
+      "id": "dod_outreach job ndnationalguard",
+      "group": 1
+    },
+    {
+      "id": "dod_outreach discover humanitarian",
+      "group": 1
+    },
+    {
+      "id": "dod report discounts",
+      "group": 1
+    },
+    {
+      "id": "request provides raise",
+      "group": 1
+    },
+    {
+      "id": "incredible legacy harlem",
+      "group": 1
+    },
+    {
+      "id": "humanitarian aid gaza",
+      "group": 1
+    },
+    {
+      "id": "tactics squadron usairforce",
+      "group": 1
+    },
+    {
+      "id": "discounts sightings extraterrestrial",
+      "group": 1
+    },
+    {
+      "id": "dod acquisition official",
+      "group": 1
+    },
+    {
+      "id": "golf usmc veteran",
+      "group": 1
+    },
+    {
+      "id": "dod 2025 budget",
+      "group": 1
+    },
+    {
+      "id": "join forces usairforce",
+      "group": 1
+    },
+    {
+      "id": "news potus issues",
+      "group": 1
+    },
+    {
+      "id": "dod amends assisted",
+      "group": 1
+    },
+    {
+      "id": "delivering aid support",
+      "group": 1
+    },
+    {
+      "id": "minationalguard joining forces",
+      "group": 1
+    },
+    {
+      "id": "dod planning budgeting",
+      "group": 1
+    },
+    {
+      "id": "gaza https tvp5nivoac",
+      "group": 1
+    },
+    {
+      "id": "potus issues wake",
+      "group": 1
+    },
+    {
+      "id": "dod_outreach stem students",
+      "group": 1
+    },
+    {
+      "id": "news dod report",
+      "group": 1
+    },
+    {
+      "id": "rt dod_outreach families",
+      "group": 1
+    },
+    {
+      "id": "training program minationalguard",
+      "group": 1
+    },
+    {
+      "id": "raise service members",
+      "group": 1
+    },
+    {
+      "id": "dod budget pentagon",
+      "group": 1
+    },
+    {
+      "id": "rt dod_outreach deptofdefense",
+      "group": 1
+    },
+    {
+      "id": "efforts deptofdefense delivering",
+      "group": 1
+    },
+    {
+      "id": "2025 budget spotlight",
+      "group": 1
+    },
+    {
+      "id": "marines 9th engineer",
+      "group": 1
+    },
+    {
+      "id": "harlem hellfighters story",
+      "group": 1
+    },
+    {
+      "id": "pacific island partnerships",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "marines 9th engineer",
+      "target": "usmc sgt ana",
+      "value": 0.5407878160476685
+    },
+    {
+      "source": "marines 9th engineer",
+      "target": "golf usmc veteran",
+      "value": 0.5014181137084961
+    },
+    {
+      "source": "security priorities western",
+      "target": "leaders discuss security",
+      "value": 0.5526588559150696
+    },
+    {
+      "source": "security priorities western",
+      "target": "priorities western hemisphere",
+      "value": 0.5915639400482178
+    },
+    {
+      "source": "leaders discuss security",
+      "target": "news leaders discuss",
+      "value": 0.5414635539054871
+    },
+    {
+      "source": "news leaders discuss",
+      "target": "news bipartisan funding",
+      "value": 0.5674819350242615
+    },
+    {
+      "source": "news leaders discuss",
+      "target": "news potus issues",
+      "value": 0.6355810761451721
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "rt dod_outreach families",
+      "value": 0.7542751431465149
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "dod budget pentagon",
+      "value": 0.5015617609024048
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "dod amends assisted",
+      "value": 0.5215314626693726
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "dod_outreach stem students",
+      "value": 0.6524146199226379
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "dod_outreach discover humanitarian",
+      "value": 0.7339928150177002
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "efforts deptofdefense delivering",
+      "value": 0.625918984413147
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "news dod report",
+      "value": 0.5694224834442139
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "dod report discounts",
+      "value": 0.5193642377853394
+    },
+    {
+      "source": "rt dod_outreach deptofdefense",
+      "target": "dod_outreach job ndnationalguard",
+      "value": 0.6800601482391357
+    },
+    {
+      "source": "training program minationalguard",
+      "target": "minationalguard joining forces",
+      "value": 0.6143140196800232
+    },
+    {
+      "source": "training program minationalguard",
+      "target": "dod_outreach job ndnationalguard",
+      "value": 0.6055670380592346
+    },
+    {
+      "source": "joining forces mic",
+      "target": "join forces usairforce",
+      "value": 0.5227617025375366
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "live pentagonpressec air",
+      "value": 0.5807138085365295
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "dod budget pentagon",
+      "value": 0.6156375408172607
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "news briefing pentagon",
+      "value": 1.0000001192092896
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "live pentagonpressec air",
+      "value": 0.5807138085365295
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "news dod report",
+      "value": 0.5975378155708313
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "news potus issues",
+      "value": 0.5196940898895264
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "pentagon official underscores",
+      "value": 0.5805026292800903
+    },
+    {
+      "source": "live pentagonpressec air",
+      "target": "dod budget pentagon",
+      "value": 0.5337544083595276
+    },
+    {
+      "source": "live pentagonpressec air",
+      "target": "news briefing pentagon",
+      "value": 0.5807138085365295
+    },
+    {
+      "source": "live pentagonpressec air",
+      "target": "live pentagonpressec air",
+      "value": 1.000000238418579
+    },
+    {
+      "source": "live pentagonpressec air",
+      "target": "pentagon official underscores",
+      "value": 0.5335500836372375
+    },
+    {
+      "source": "witnessed usmc usairforce",
+      "target": "usmc trials nellisafb",
+      "value": 0.531404435634613
+    },
+    {
+      "source": "witnessed usmc usairforce",
+      "target": "usmc sgt ana",
+      "value": 0.5637307167053223
+    },
+    {
+      "source": "witnessed usmc usairforce",
+      "target": "usmc understand effects",
+      "value": 0.6097229719161987
+    },
+    {
+      "source": "witnessed usmc usairforce",
+      "target": "tactics squadron usairforce",
+      "value": 0.6312787532806396
+    },
+    {
+      "source": "witnessed usmc usairforce",
+      "target": "golf usmc veteran",
+      "value": 0.5210064649581909
+    },
+    {
+      "source": "witnessed usmc usairforce",
+      "target": "join forces usairforce",
+      "value": 0.6489264965057373
+    },
+    {
+      "source": "rt dod_outreach families",
+      "target": "dod_outreach stem students",
+      "value": 0.6668345928192139
+    },
+    {
+      "source": "rt dod_outreach families",
+      "target": "dod_outreach discover humanitarian",
+      "value": 0.6740527153015137
+    },
+    {
+      "source": "rt dod_outreach families",
+      "target": "dod_outreach job ndnationalguard",
+      "value": 0.5600254535675049
+    },
+    {
+      "source": "2025 budget spotlight",
+      "target": "dod 2025 budget",
+      "value": 0.6388978958129883
+    },
+    {
+      "source": "dod 2025 budget",
+      "target": "dod budget pentagon",
+      "value": 0.739587664604187
+    },
+    {
+      "source": "dod 2025 budget",
+      "target": "dod report discounts",
+      "value": 0.6117796301841736
+    },
+    {
+      "source": "dod 2025 budget",
+      "target": "dod planning budgeting",
+      "value": 0.7866301536560059
+    },
+    {
+      "source": "request provides raise",
+      "target": "raise service members",
+      "value": 0.5200796723365784
+    },
+    {
+      "source": "usmc sgt ana",
+      "target": "golf usmc veteran",
+      "value": 0.5137383341789246
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "dod amends assisted",
+      "value": 0.5007449388504028
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "dod_outreach discover humanitarian",
+      "value": 0.5204451084136963
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "news briefing pentagon",
+      "value": 0.6156375408172607
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "live pentagonpressec air",
+      "value": 0.5337544083595276
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "news dod report",
+      "value": 0.5176559686660767
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "dod report discounts",
+      "value": 0.570854663848877
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "pentagon official underscores",
+      "value": 0.5344211459159851
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "dod acquisition official",
+      "value": 0.5390980243682861
+    },
+    {
+      "source": "dod budget pentagon",
+      "target": "dod planning budgeting",
+      "value": 0.7064666748046875
+    },
+    {
+      "source": "dod amends assisted",
+      "target": "dod acquisition official",
+      "value": 0.5046918392181396
+    },
+    {
+      "source": "harlem hellfighters story",
+      "target": "incredible legacy harlem",
+      "value": 0.6015017032623291
+    },
+    {
+      "source": "dod_outreach stem students",
+      "target": "dod_outreach discover humanitarian",
+      "value": 0.7397955656051636
+    },
+    {
+      "source": "dod_outreach stem students",
+      "target": "dod_outreach job ndnationalguard",
+      "value": 0.6368157267570496
+    },
+    {
+      "source": "pacific island partnerships",
+      "target": "legislation strengthen pacific",
+      "value": 0.6853286027908325
+    },
+    {
+      "source": "news bipartisan funding",
+      "target": "news potus issues",
+      "value": 0.5632468461990356
+    },
+    {
+      "source": "tactics squadron usairforce",
+      "target": "join forces usairforce",
+      "value": 0.6731073260307312
+    },
+    {
+      "source": "pier deliver humanitarian",
+      "target": "humanitarian aid gaza",
+      "value": 0.5102338790893555
+    },
+    {
+      "source": "pier deliver humanitarian",
+      "target": "dod construct pier",
+      "value": 0.6293462514877319
+    },
+    {
+      "source": "humanitarian aid gaza",
+      "target": "gaza https tvp5nivoac",
+      "value": 0.6159676313400269
+    },
+    {
+      "source": "dod_outreach discover humanitarian",
+      "target": "efforts deptofdefense delivering",
+      "value": 0.5393021702766418
+    },
+    {
+      "source": "dod_outreach discover humanitarian",
+      "target": "news dod report",
+      "value": 0.5897377729415894
+    },
+    {
+      "source": "dod_outreach discover humanitarian",
+      "target": "dod_outreach job ndnationalguard",
+      "value": 0.6424420475959778
+    },
+    {
+      "source": "efforts deptofdefense delivering",
+      "target": "delivering aid support",
+      "value": 0.508364737033844
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "live pentagonpressec air",
+      "value": 0.5807138085365295
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "news dod report",
+      "value": 0.5975378155708313
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "news potus issues",
+      "value": 0.5196940898895264
+    },
+    {
+      "source": "news briefing pentagon",
+      "target": "pentagon official underscores",
+      "value": 0.5805026292800903
+    },
+    {
+      "source": "live pentagonpressec air",
+      "target": "pentagon official underscores",
+      "value": 0.5335500836372375
+    },
+    {
+      "source": "discounts sightings extraterrestrial",
+      "target": "report discounts sightings",
+      "value": 0.7596593499183655
+    },
+    {
+      "source": "report discounts sightings",
+      "target": "dod report discounts",
+      "value": 0.6638824939727783
+    },
+    {
+      "source": "news dod report",
+      "target": "dod report discounts",
+      "value": 0.6038192510604858
+    },
+    {
+      "source": "news dod report",
+      "target": "news potus issues",
+      "value": 0.5411907434463501
+    },
+    {
+      "source": "news dod report",
+      "target": "dod acquisition official",
+      "value": 0.5474876165390015
+    },
+    {
+      "source": "dod report discounts",
+      "target": "dod acquisition official",
+      "value": 0.5338845252990723
+    },
+    {
+      "source": "dod report discounts",
+      "target": "dod planning budgeting",
+      "value": 0.5856298208236694
+    },
+    {
+      "source": "flight 22 osprey",
+      "target": "return flight 22",
+      "value": 0.6753323674201965
+    },
+    {
+      "source": "potus issues wake",
+      "target": "news potus issues",
+      "value": 0.5562624335289001
+    },
+    {
+      "source": "potus issues wake",
+      "target": "issues wake americans",
+      "value": 0.6018210649490356
+    },
+    {
+      "source": "news potus issues",
+      "target": "issues wake americans",
+      "value": 0.5160458087921143
+    }
+  ]
+}

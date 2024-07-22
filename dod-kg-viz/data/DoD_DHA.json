@@ -1,0 +1,845 @@
+{
+  "nodes": [
+    {
+      "id": "child struggling mental",
+      "group": 8
+    },
+    {
+      "id": "simulated injuries medical",
+      "group": 8
+    },
+    {
+      "id": "naval hospital guam",
+      "group": 8
+    },
+    {
+      "id": "dha_sel congratulations time",
+      "group": 8
+    },
+    {
+      "id": "militaryhealth read idea",
+      "group": 8
+    },
+    {
+      "id": "dha_sel time flies",
+      "group": 8
+    },
+    {
+      "id": "help mental health",
+      "group": 8
+    },
+    {
+      "id": "families militaryhealth welcomed",
+      "group": 8
+    },
+    {
+      "id": "dhaproud militarymedicine https",
+      "group": 8
+    },
+    {
+      "id": "tricare defendyourmh mentalhealth",
+      "group": 8
+    },
+    {
+      "id": "army community hospital",
+      "group": 8
+    },
+    {
+      "id": "tbi research shows",
+      "group": 8
+    },
+    {
+      "id": "dhaproud https whgqpg6arx",
+      "group": 8
+    },
+    {
+      "id": "dod_dha brain injury",
+      "group": 8
+    },
+    {
+      "id": "dha_sel check militaryhealth",
+      "group": 8
+    },
+    {
+      "id": "active duty spouses",
+      "group": 8
+    },
+    {
+      "id": "webinar using tricare",
+      "group": 8
+    },
+    {
+      "id": "women rising ranks",
+      "group": 8
+    },
+    {
+      "id": "enlisted medical corps",
+      "group": 8
+    },
+    {
+      "id": "current tbi research",
+      "group": 8
+    },
+    {
+      "id": "dod_dha patientsafetyweek week",
+      "group": 8
+    },
+    {
+      "id": "naval hospital cherry",
+      "group": 8
+    },
+    {
+      "id": "making tbi prevention",
+      "group": 8
+    },
+    {
+      "id": "cdcgov sick respiratory",
+      "group": 8
+    },
+    {
+      "id": "navymedicine tbt highlights",
+      "group": 8
+    },
+    {
+      "id": "dental corps dhaproud",
+      "group": 8
+    },
+    {
+      "id": "tbi symptoms aren",
+      "group": 8
+    },
+    {
+      "id": "leap year babies",
+      "group": 8
+    },
+    {
+      "id": "ptsd treatment explore",
+      "group": 8
+    },
+    {
+      "id": "shows traumatic brain",
+      "group": 8
+    },
+    {
+      "id": "traumatic brain injury",
+      "group": 8
+    },
+    {
+      "id": "respiratory virus stay",
+      "group": 8
+    },
+    {
+      "id": "director neuropsychiatry traumatic",
+      "group": 8
+    },
+    {
+      "id": "patientsafetyweek week reinvigorated",
+      "group": 8
+    },
+    {
+      "id": "using tricare pharmacy",
+      "group": 8
+    },
+    {
+      "id": "established army dental",
+      "group": 8
+    },
+    {
+      "id": "military dentists play",
+      "group": 8
+    },
+    {
+      "id": "plasma yellow liquid",
+      "group": 8
+    },
+    {
+      "id": "military medicine womenshistorymonth",
+      "group": 8
+    },
+    {
+      "id": "casualty drill aboard",
+      "group": 8
+    },
+    {
+      "id": "readiness dhaproud dogsofinstagram",
+      "group": 8
+    },
+    {
+      "id": "militaryhealth new linkedin",
+      "group": 8
+    },
+    {
+      "id": "babies feb 29",
+      "group": 8
+    },
+    {
+      "id": "militaryhealth dod_dha patientsafetyweek",
+      "group": 8
+    },
+    {
+      "id": "linkedin page sure",
+      "group": 8
+    },
+    {
+      "id": "interview series veterinary",
+      "group": 8
+    },
+    {
+      "id": "happy anniversary army",
+      "group": 8
+    },
+    {
+      "id": "anniversary army dental",
+      "group": 8
+    },
+    {
+      "id": "health research symposium",
+      "group": 8
+    },
+    {
+      "id": "marines enrolled tricare",
+      "group": 8
+    },
+    {
+      "id": "dhaproud https uti2p0wyyi",
+      "group": 8
+    },
+    {
+      "id": "dha forefront medical",
+      "group": 8
+    },
+    {
+      "id": "brain awareness day",
+      "group": 8
+    },
+    {
+      "id": "partnership opportunities navymedicine",
+      "group": 8
+    },
+    {
+      "id": "luck brain health",
+      "group": 8
+    },
+    {
+      "id": "women military comprising",
+      "group": 8
+    },
+    {
+      "id": "blood red plasma",
+      "group": 8
+    },
+    {
+      "id": "brain injuries military",
+      "group": 8
+    },
+    {
+      "id": "militaryhealth military health",
+      "group": 8
+    },
+    {
+      "id": "brain health symposium",
+      "group": 8
+    },
+    {
+      "id": "agency veterinary services",
+      "group": 8
+    }
+  ],
+  "links": [
+    {
+      "source": "ptsd treatment explore",
+      "target": "shows traumatic brain",
+      "value": 0.5006526708602905
+    },
+    {
+      "source": "help mental health",
+      "target": "child struggling mental",
+      "value": 0.5060558915138245
+    },
+    {
+      "source": "dhaproud https whgqpg6arx",
+      "target": "dhaproud https uti2p0wyyi",
+      "value": 0.8078634142875671
+    },
+    {
+      "source": "dhaproud https whgqpg6arx",
+      "target": "dental corps dhaproud",
+      "value": 0.5120583176612854
+    },
+    {
+      "source": "dhaproud https whgqpg6arx",
+      "target": "dhaproud militarymedicine https",
+      "value": 0.733183741569519
+    },
+    {
+      "source": "dhaproud https uti2p0wyyi",
+      "target": "dhaproud militarymedicine https",
+      "value": 0.7265773415565491
+    },
+    {
+      "source": "dha forefront medical",
+      "target": "dha_sel check militaryhealth",
+      "value": 0.5639233589172363
+    },
+    {
+      "source": "dha forefront medical",
+      "target": "militaryhealth dod_dha patientsafetyweek",
+      "value": 0.5480927228927612
+    },
+    {
+      "source": "dha forefront medical",
+      "target": "dod_dha brain injury",
+      "value": 0.5492629408836365
+    },
+    {
+      "source": "militaryhealth new linkedin",
+      "target": "dha_sel check militaryhealth",
+      "value": 0.5503493547439575
+    },
+    {
+      "source": "militaryhealth new linkedin",
+      "target": "linkedin page sure",
+      "value": 0.5443002581596375
+    },
+    {
+      "source": "militaryhealth new linkedin",
+      "target": "militaryhealth read idea",
+      "value": 0.6427878737449646
+    },
+    {
+      "source": "militaryhealth new linkedin",
+      "target": "militaryhealth dod_dha patientsafetyweek",
+      "value": 0.5997506380081177
+    },
+    {
+      "source": "militaryhealth new linkedin",
+      "target": "militaryhealth military health",
+      "value": 0.6699895858764648
+    },
+    {
+      "source": "militaryhealth new linkedin",
+      "target": "families militaryhealth welcomed",
+      "value": 0.5748056173324585
+    },
+    {
+      "source": "dha_sel check militaryhealth",
+      "target": "militaryhealth read idea",
+      "value": 0.5960415601730347
+    },
+    {
+      "source": "dha_sel check militaryhealth",
+      "target": "militaryhealth dod_dha patientsafetyweek",
+      "value": 0.7498959302902222
+    },
+    {
+      "source": "dha_sel check militaryhealth",
+      "target": "dha_sel congratulations time",
+      "value": 0.5857936143875122
+    },
+    {
+      "source": "dha_sel check militaryhealth",
+      "target": "dha_sel time flies",
+      "value": 0.5313228368759155
+    },
+    {
+      "source": "dha_sel check militaryhealth",
+      "target": "militaryhealth military health",
+      "value": 0.6317756175994873
+    },
+    {
+      "source": "dha_sel check militaryhealth",
+      "target": "families militaryhealth welcomed",
+      "value": 0.5545386672019958
+    },
+    {
+      "source": "dha_sel check militaryhealth",
+      "target": "dhaproud militarymedicine https",
+      "value": 0.5566051006317139
+    },
+    {
+      "source": "militaryhealth read idea",
+      "target": "militaryhealth dod_dha patientsafetyweek",
+      "value": 0.6770825982093811
+    },
+    {
+      "source": "militaryhealth read idea",
+      "target": "militaryhealth military health",
+      "value": 0.7980097532272339
+    },
+    {
+      "source": "militaryhealth read idea",
+      "target": "army community hospital",
+      "value": 0.5057953000068665
+    },
+    {
+      "source": "militaryhealth read idea",
+      "target": "families militaryhealth welcomed",
+      "value": 0.6716452836990356
+    },
+    {
+      "source": "militaryhealth read idea",
+      "target": "military medicine womenshistorymonth",
+      "value": 0.5713980793952942
+    },
+    {
+      "source": "militaryhealth read idea",
+      "target": "enlisted medical corps",
+      "value": 0.539991021156311
+    },
+    {
+      "source": "active duty spouses",
+      "target": "families militaryhealth welcomed",
+      "value": 0.510245680809021
+    },
+    {
+      "source": "luck brain health",
+      "target": "brain health symposium",
+      "value": 0.5283927917480469
+    },
+    {
+      "source": "luck brain health",
+      "target": "brain health symposium",
+      "value": 0.5283927917480469
+    },
+    {
+      "source": "current tbi research",
+      "target": "tbi symptoms aren",
+      "value": 0.6238802671432495
+    },
+    {
+      "source": "current tbi research",
+      "target": "tbi research shows",
+      "value": 0.8133280277252197
+    },
+    {
+      "source": "current tbi research",
+      "target": "making tbi prevention",
+      "value": 0.7188994884490967
+    },
+    {
+      "source": "current tbi research",
+      "target": "current tbi research",
+      "value": 1.0
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "traumatic brain injury",
+      "value": 1.000000238418579
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "dod_dha brain injury",
+      "value": 0.6633442640304565
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "simulated injuries medical",
+      "value": 0.5523821711540222
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "director neuropsychiatry traumatic",
+      "value": 0.560904324054718
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "shows traumatic brain",
+      "value": 0.7642661333084106
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "brain injuries military",
+      "value": 0.7484256029129028
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "traumatic brain injury",
+      "value": 1.000000238418579
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "dod_dha brain injury",
+      "value": 0.6633442640304565
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "simulated injuries medical",
+      "value": 0.5523821711540222
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "director neuropsychiatry traumatic",
+      "value": 0.560904324054718
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "shows traumatic brain",
+      "value": 0.7642661333084106
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "brain injuries military",
+      "value": 0.7484256029129028
+    },
+    {
+      "source": "traumatic brain injury",
+      "target": "traumatic brain injury",
+      "value": 1.000000238418579
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "dod_dha patientsafetyweek week",
+      "value": 0.7918304204940796
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "patientsafetyweek week reinvigorated",
+      "value": 0.5528175830841064
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "dod_dha brain injury",
+      "value": 0.5288810729980469
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "militaryhealth military health",
+      "value": 0.734157919883728
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "army community hospital",
+      "value": 0.5657451152801514
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "families militaryhealth welcomed",
+      "value": 0.6704270839691162
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "military medicine womenshistorymonth",
+      "value": 0.6197614073753357
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "dhaproud militarymedicine https",
+      "value": 0.5117200613021851
+    },
+    {
+      "source": "militaryhealth dod_dha patientsafetyweek",
+      "target": "enlisted medical corps",
+      "value": 0.5593618154525757
+    },
+    {
+      "source": "dod_dha patientsafetyweek week",
+      "target": "patientsafetyweek week reinvigorated",
+      "value": 0.8032954931259155
+    },
+    {
+      "source": "readiness dhaproud dogsofinstagram",
+      "target": "dental corps dhaproud",
+      "value": 0.5528364181518555
+    },
+    {
+      "source": "agency veterinary services",
+      "target": "interview series veterinary",
+      "value": 0.6017674803733826
+    },
+    {
+      "source": "naval hospital guam",
+      "target": "partnership opportunities navymedicine",
+      "value": 0.5183871388435364
+    },
+    {
+      "source": "naval hospital guam",
+      "target": "navymedicine tbt highlights",
+      "value": 0.5282552242279053
+    },
+    {
+      "source": "naval hospital guam",
+      "target": "naval hospital cherry",
+      "value": 0.6500716209411621
+    },
+    {
+      "source": "naval hospital guam",
+      "target": "army community hospital",
+      "value": 0.519228994846344
+    },
+    {
+      "source": "naval hospital guam",
+      "target": "enlisted medical corps",
+      "value": 0.5111119747161865
+    },
+    {
+      "source": "marines enrolled tricare",
+      "target": "using tricare pharmacy",
+      "value": 0.6067534685134888
+    },
+    {
+      "source": "marines enrolled tricare",
+      "target": "tricare defendyourmh mentalhealth",
+      "value": 0.5972148180007935
+    },
+    {
+      "source": "brain health symposium",
+      "target": "health research symposium",
+      "value": 0.689358115196228
+    },
+    {
+      "source": "brain health symposium",
+      "target": "brain health symposium",
+      "value": 1.0
+    },
+    {
+      "source": "brain health symposium",
+      "target": "brain awareness day",
+      "value": 0.5905883312225342
+    },
+    {
+      "source": "dod_dha brain injury",
+      "target": "shows traumatic brain",
+      "value": 0.5108382105827332
+    },
+    {
+      "source": "dod_dha brain injury",
+      "target": "brain injuries military",
+      "value": 0.6090848445892334
+    },
+    {
+      "source": "dod_dha brain injury",
+      "target": "traumatic brain injury",
+      "value": 0.6633442640304565
+    },
+    {
+      "source": "dha_sel congratulations time",
+      "target": "dha_sel time flies",
+      "value": 0.7390928268432617
+    },
+    {
+      "source": "militaryhealth military health",
+      "target": "army community hospital",
+      "value": 0.549419641494751
+    },
+    {
+      "source": "militaryhealth military health",
+      "target": "families militaryhealth welcomed",
+      "value": 0.7437345385551453
+    },
+    {
+      "source": "militaryhealth military health",
+      "target": "military medicine womenshistorymonth",
+      "value": 0.6228609681129456
+    },
+    {
+      "source": "militaryhealth military health",
+      "target": "established army dental",
+      "value": 0.5077617168426514
+    },
+    {
+      "source": "militaryhealth military health",
+      "target": "brain injuries military",
+      "value": 0.5576074719429016
+    },
+    {
+      "source": "militaryhealth military health",
+      "target": "enlisted medical corps",
+      "value": 0.6156138181686401
+    },
+    {
+      "source": "health research symposium",
+      "target": "brain health symposium",
+      "value": 0.689358115196228
+    },
+    {
+      "source": "brain health symposium",
+      "target": "brain awareness day",
+      "value": 0.5905883312225342
+    },
+    {
+      "source": "casualty drill aboard",
+      "target": "brain injuries military",
+      "value": 0.5342907905578613
+    },
+    {
+      "source": "simulated injuries medical",
+      "target": "brain injuries military",
+      "value": 0.5439203381538391
+    },
+    {
+      "source": "simulated injuries medical",
+      "target": "traumatic brain injury",
+      "value": 0.5523821711540222
+    },
+    {
+      "source": "women military comprising",
+      "target": "women rising ranks",
+      "value": 0.5957708358764648
+    },
+    {
+      "source": "women military comprising",
+      "target": "military medicine womenshistorymonth",
+      "value": 0.6991292238235474
+    },
+    {
+      "source": "partnership opportunities navymedicine",
+      "target": "navymedicine tbt highlights",
+      "value": 0.5550686120986938
+    },
+    {
+      "source": "partnership opportunities navymedicine",
+      "target": "enlisted medical corps",
+      "value": 0.5219333171844482
+    },
+    {
+      "source": "naval hospital cherry",
+      "target": "army community hospital",
+      "value": 0.5363059043884277
+    },
+    {
+      "source": "director neuropsychiatry traumatic",
+      "target": "shows traumatic brain",
+      "value": 0.6119526624679565
+    },
+    {
+      "source": "director neuropsychiatry traumatic",
+      "target": "traumatic brain injury",
+      "value": 0.560904324054718
+    },
+    {
+      "source": "tbi symptoms aren",
+      "target": "tbi research shows",
+      "value": 0.5488108992576599
+    },
+    {
+      "source": "tbi symptoms aren",
+      "target": "making tbi prevention",
+      "value": 0.6223173141479492
+    },
+    {
+      "source": "tbi symptoms aren",
+      "target": "current tbi research",
+      "value": 0.6238802671432495
+    },
+    {
+      "source": "shows traumatic brain",
+      "target": "brain injuries military",
+      "value": 0.5930397510528564
+    },
+    {
+      "source": "shows traumatic brain",
+      "target": "traumatic brain injury",
+      "value": 0.7642661333084106
+    },
+    {
+      "source": "tbi research shows",
+      "target": "making tbi prevention",
+      "value": 0.6091268062591553
+    },
+    {
+      "source": "tbi research shows",
+      "target": "current tbi research",
+      "value": 0.8133280277252197
+    },
+    {
+      "source": "military dentists play",
+      "target": "established army dental",
+      "value": 0.7128459215164185
+    },
+    {
+      "source": "military dentists play",
+      "target": "anniversary army dental",
+      "value": 0.670997142791748
+    },
+    {
+      "source": "blood red plasma",
+      "target": "plasma yellow liquid",
+      "value": 0.5880488753318787
+    },
+    {
+      "source": "army community hospital",
+      "target": "military medicine womenshistorymonth",
+      "value": 0.5586907863616943
+    },
+    {
+      "source": "army community hospital",
+      "target": "brain injuries military",
+      "value": 0.5276918411254883
+    },
+    {
+      "source": "army community hospital",
+      "target": "enlisted medical corps",
+      "value": 0.6777768731117249
+    },
+    {
+      "source": "leap year babies",
+      "target": "babies feb 29",
+      "value": 0.6225646734237671
+    },
+    {
+      "source": "families militaryhealth welcomed",
+      "target": "military medicine womenshistorymonth",
+      "value": 0.5056384801864624
+    },
+    {
+      "source": "using tricare pharmacy",
+      "target": "webinar using tricare",
+      "value": 0.6081150770187378
+    },
+    {
+      "source": "using tricare pharmacy",
+      "target": "tricare defendyourmh mentalhealth",
+      "value": 0.6030948162078857
+    },
+    {
+      "source": "military medicine womenshistorymonth",
+      "target": "enlisted medical corps",
+      "value": 0.6039717197418213
+    },
+    {
+      "source": "established army dental",
+      "target": "anniversary army dental",
+      "value": 0.8028887510299683
+    },
+    {
+      "source": "established army dental",
+      "target": "dental corps dhaproud",
+      "value": 0.5319761633872986
+    },
+    {
+      "source": "anniversary army dental",
+      "target": "dental corps dhaproud",
+      "value": 0.5086646676063538
+    },
+    {
+      "source": "anniversary army dental",
+      "target": "happy anniversary army",
+      "value": 0.6586835384368896
+    },
+    {
+      "source": "dental corps dhaproud",
+      "target": "dhaproud militarymedicine https",
+      "value": 0.6083219647407532
+    },
+    {
+      "source": "cdcgov sick respiratory",
+      "target": "respiratory virus stay",
+      "value": 0.564206600189209
+    },
+    {
+      "source": "brain injuries military",
+      "target": "enlisted medical corps",
+      "value": 0.5348362326622009
+    },
+    {
+      "source": "brain injuries military",
+      "target": "traumatic brain injury",
+      "value": 0.7484256029129028
+    },
+    {
+      "source": "making tbi prevention",
+      "target": "current tbi research",
+      "value": 0.7188994884490967
+    }
+  ]
+}

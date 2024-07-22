@@ -1,0 +1,123 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto';
+}
+
+.nav {
+  width: 100%;
+  height: 35px;
+  font-size: 16px;
+  line-height: 35px;
+  font-weight: bold;
+  background-color: #d9d9d9;
+}
+
+.nav-title {
+  padding-left: 5px;
+}
+
+.container {
+  width: 100%;
+  height: calc(100% - 35px);
+}
+
+.container-left {
+  position: relative;
+  float: left;
+  width: 20%;
+  height: 100%;
+  padding: 5px;
+}
+
+.container-middle {
+  float: left;
+  width: 50%;
+  height: 100%;
+  padding: 5px;
+}
+
+.container-right {
+  float: left;
+  width: calc(30% - 30px);
+  height: 100%;
+  padding: 5px;
+}
+
+.card {
+  background-color: #f0f0f0;
+  box-shadow: 2px 2px 1px #d9d9d9;
+}
+
+.material-icons {
+  vertical-align: bottom;
+}
+
+.card-title {
+  box-sizing: border-box;
+  padding-left: 5px;
+  width: 100%;
+  height: 25px;
+  line-height: 25px;
+  font-size: 12px;
+  font-weight: bold;
+  border: 1px solid #d9d9d9;
+  border-bottom: none;
+}
+
+.card-body {
+  box-sizing: border-box;
+  width: 100%;
+  height: calc(100% - 25px);
+  border: 1px solid #d9d9d9;
+  border-top: none;
+}
+
+#node-query {
+  width: 100%;
+  height: 40%;
+}
+
+#link-query {
+  margin-top: 5px;
+  width: 100%;
+  height: calc(60% - 15px);
+}
+
+#node-expander {
+  width: 100%;
+  height: 40%;
+  /*visibility: hidden;*/
+}
+
+#relationship-expander {
+  margin-top: 5px;
+  width: 100%;
+  height: 60%;
+}
+
+#table-summary {
+  width: 100%;
+  height: calc(100% - 15px);
+}
+
+path {
+  stroke: #252525;
+  stroke-width: 1px;
+  fill:none;
+}
+
+/*
+color patlette
+#b3e2cd 1
+#fdcdac 2
+#cbd5e8 3
+#f4cae4 4
+#e6f5c9 5
+#fff2ae 6
+#f1e2cc 7
+#cccccc 8
+*/

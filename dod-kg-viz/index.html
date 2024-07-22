@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+  <body>
+    <!-- navbar -->
+    <div class="nav">
+      <div class="nav-title">DoD-KG Explorer</div>
+    </div>
+    <div class="container">
+      <div class="container-left">
+        <!-- node query -->
+        <div id="node-query" class="card">
+          <div class="card-title"><i class="material-icons">manage_search</i>&nbsp;Node Query</div>
+          <div id="node-query-body" class="card-body"></div>
+        </div>
+        <!-- link query -->
+        <div id="link-query" class="card">
+          <div class="card-title"><i class="material-icons">bar_chart</i>&nbsp;Link Query</div>
+          <div class="card-body"></div>
+        </div>
+      </div>
+      <div class="container-middle">
+        <!-- node-link expander -->
+        <div id="node-expander" class="card">
+          <div class="card-title"><i class="material-icons">hub</i>&nbsp;Node-Link Expander</div>
+          <div class="card-body" id="node-expander-body"></div>
+        </div>
+        <!-- relationship expander -->
+        <div id="relationship-expander" class="card">
+          <div class="card-title"><i class="material-icons">account_tree</i>&nbsp;Relationship Expander</div>
+          <div class="card-body" id="node-relationship-expander"></div>
+        </div>
+      </div>
+      <div class="container-right">
+        <!-- table summary -->
+        <div id="table-summary" class="card">
+          <div class="card-title"><i class="material-icons">table_chart</i>&nbsp;Table Summary</div>
+          <div class="card-body"></div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>

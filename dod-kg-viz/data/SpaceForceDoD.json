@@ -1,0 +1,624 @@
+{
+  "nodes": [
+    {
+      "id": "students toured nato",
+      "group": 3
+    },
+    {
+      "id": "usafcent space forces",
+      "group": 3
+    },
+    {
+      "id": "congratulations 2nd lieutenants",
+      "group": 3
+    },
+    {
+      "id": "lieutenants welcome team",
+      "group": 3
+    },
+    {
+      "id": "career missile officer",
+      "group": 3
+    },
+    {
+      "id": "congrats chief master",
+      "group": 3
+    },
+    {
+      "id": "congratulations chief pogue",
+      "group": 3
+    },
+    {
+      "id": "space battle management",
+      "group": 3
+    },
+    {
+      "id": "role enlisted guardians",
+      "group": 3
+    },
+    {
+      "id": "space force excellence",
+      "group": 3
+    },
+    {
+      "id": "guardians looking upward",
+      "group": 3
+    },
+    {
+      "id": "partnertowin https 9bhjmo1gv8",
+      "group": 3
+    },
+    {
+      "id": "rt ussf_ssc spacesystemscommand",
+      "group": 3
+    },
+    {
+      "id": "spacemobilityconference hear ussf_ssc",
+      "group": 3
+    },
+    {
+      "id": "guardians continue running",
+      "group": 3
+    },
+    {
+      "id": "sergeant selects sempersupra",
+      "group": 3
+    },
+    {
+      "id": "looking opportunities partnertowin",
+      "group": 3
+    },
+    {
+      "id": "space operations gen",
+      "group": 3
+    },
+    {
+      "id": "saltzman delivered keynote",
+      "group": 3
+    },
+    {
+      "id": "partnertowin https ctf7umuo1k",
+      "group": 3
+    },
+    {
+      "id": "nato space engagement",
+      "group": 3
+    },
+    {
+      "id": "satellites missile defense",
+      "group": 3
+    },
+    {
+      "id": "rotc cadets leadership",
+      "group": 3
+    },
+    {
+      "id": "state space force",
+      "group": 3
+    },
+    {
+      "id": "chief master sergeant",
+      "group": 3
+    },
+    {
+      "id": "rt secafofficial secaf",
+      "group": 3
+    },
+    {
+      "id": "carried satellites missile",
+      "group": 3
+    },
+    {
+      "id": "hague guardian launch",
+      "group": 3
+    },
+    {
+      "id": "opportunities partnertowin https",
+      "group": 3
+    },
+    {
+      "id": "welcome team sempersupra",
+      "group": 3
+    },
+    {
+      "id": "orbit satellite refueled",
+      "group": 3
+    },
+    {
+      "id": "satellite refueled ussf_ssc",
+      "group": 3
+    },
+    {
+      "id": "keynote address afacolorado",
+      "group": 3
+    },
+    {
+      "id": "hague work nasa",
+      "group": 3
+    },
+    {
+      "id": "important space day",
+      "group": 3
+    },
+    {
+      "id": "missile defense agency",
+      "group": 3
+    },
+    {
+      "id": "uniform guardians wear",
+      "group": 3
+    },
+    {
+      "id": "icymi guardians physical",
+      "group": 3
+    },
+    {
+      "id": "guardian culture build",
+      "group": 3
+    },
+    {
+      "id": "2024 cost living",
+      "group": 3
+    },
+    {
+      "id": "icymi space force",
+      "group": 3
+    },
+    {
+      "id": "guardians force joined",
+      "group": 3
+    },
+    {
+      "id": "secafofficial secaf kendall",
+      "group": 3
+    },
+    {
+      "id": "spirit guardians spaceforce",
+      "group": 3
+    },
+    {
+      "id": "inspire future guardians",
+      "group": 3
+    },
+    {
+      "id": "dod 2024 cost",
+      "group": 3
+    },
+    {
+      "id": "chief space operations",
+      "group": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "looking opportunities partnertowin",
+      "target": "opportunities partnertowin https",
+      "value": 0.7784392833709717
+    },
+    {
+      "source": "looking opportunities partnertowin",
+      "target": "partnertowin https ctf7umuo1k",
+      "value": 0.5190425515174866
+    },
+    {
+      "source": "looking opportunities partnertowin",
+      "target": "partnertowin https 9bhjmo1gv8",
+      "value": 0.5921773910522461
+    },
+    {
+      "source": "opportunities partnertowin https",
+      "target": "partnertowin https ctf7umuo1k",
+      "value": 0.6840748190879822
+    },
+    {
+      "source": "opportunities partnertowin https",
+      "target": "partnertowin https 9bhjmo1gv8",
+      "value": 0.672296404838562
+    },
+    {
+      "source": "partnertowin https ctf7umuo1k",
+      "target": "partnertowin https 9bhjmo1gv8",
+      "value": 0.8363102674484253
+    },
+    {
+      "source": "uniform guardians wear",
+      "target": "guardians looking upward",
+      "value": 0.5830532312393188
+    },
+    {
+      "source": "uniform guardians wear",
+      "target": "guardians force joined",
+      "value": 0.5684103965759277
+    },
+    {
+      "source": "uniform guardians wear",
+      "target": "role enlisted guardians",
+      "value": 0.6621497869491577
+    },
+    {
+      "source": "uniform guardians wear",
+      "target": "role enlisted guardians",
+      "value": 0.6621497869491577
+    },
+    {
+      "source": "uniform guardians wear",
+      "target": "spirit guardians spaceforce",
+      "value": 0.5247864127159119
+    },
+    {
+      "source": "uniform guardians wear",
+      "target": "inspire future guardians",
+      "value": 0.5328525304794312
+    },
+    {
+      "source": "uniform guardians wear",
+      "target": "guardians continue running",
+      "value": 0.5289663076400757
+    },
+    {
+      "source": "icymi guardians physical",
+      "target": "spirit guardians spaceforce",
+      "value": 0.5094738602638245
+    },
+    {
+      "source": "icymi guardians physical",
+      "target": "icymi space force",
+      "value": 0.5768133401870728
+    },
+    {
+      "source": "guardians looking upward",
+      "target": "guardians force joined",
+      "value": 0.5549943447113037
+    },
+    {
+      "source": "guardians looking upward",
+      "target": "role enlisted guardians",
+      "value": 0.5155941247940063
+    },
+    {
+      "source": "guardians looking upward",
+      "target": "role enlisted guardians",
+      "value": 0.5155941247940063
+    },
+    {
+      "source": "guardians looking upward",
+      "target": "spirit guardians spaceforce",
+      "value": 0.5496001243591309
+    },
+    {
+      "source": "guardians looking upward",
+      "target": "inspire future guardians",
+      "value": 0.5873448848724365
+    },
+    {
+      "source": "guardians looking upward",
+      "target": "guardians continue running",
+      "value": 0.5677285194396973
+    },
+    {
+      "source": "space battle management",
+      "target": "usafcent space forces",
+      "value": 0.5330672860145569
+    },
+    {
+      "source": "space battle management",
+      "target": "space operations gen",
+      "value": 0.6076458692550659
+    },
+    {
+      "source": "space battle management",
+      "target": "chief space operations",
+      "value": 0.596576452255249
+    },
+    {
+      "source": "space battle management",
+      "target": "nato space engagement",
+      "value": 0.576962947845459
+    },
+    {
+      "source": "space battle management",
+      "target": "chief space operations",
+      "value": 0.596576452255249
+    },
+    {
+      "source": "space battle management",
+      "target": "space force excellence",
+      "value": 0.5447731018066406
+    },
+    {
+      "source": "rotc cadets leadership",
+      "target": "rotc cadets leadership",
+      "value": 1.0
+    },
+    {
+      "source": "usafcent space forces",
+      "target": "missile defense agency",
+      "value": 0.5275848507881165
+    },
+    {
+      "source": "usafcent space forces",
+      "target": "state space force",
+      "value": 0.5059258937835693
+    },
+    {
+      "source": "usafcent space forces",
+      "target": "space operations gen",
+      "value": 0.5031566619873047
+    },
+    {
+      "source": "usafcent space forces",
+      "target": "chief space operations",
+      "value": 0.5255492925643921
+    },
+    {
+      "source": "usafcent space forces",
+      "target": "nato space engagement",
+      "value": 0.5074924230575562
+    },
+    {
+      "source": "usafcent space forces",
+      "target": "chief space operations",
+      "value": 0.5255492925643921
+    },
+    {
+      "source": "usafcent space forces",
+      "target": "space force excellence",
+      "value": 0.6781519055366516
+    },
+    {
+      "source": "guardians force joined",
+      "target": "role enlisted guardians",
+      "value": 0.7160007357597351
+    },
+    {
+      "source": "guardians force joined",
+      "target": "role enlisted guardians",
+      "value": 0.7160007357597351
+    },
+    {
+      "source": "guardians force joined",
+      "target": "spirit guardians spaceforce",
+      "value": 0.6905845403671265
+    },
+    {
+      "source": "guardians force joined",
+      "target": "inspire future guardians",
+      "value": 0.5766564011573792
+    },
+    {
+      "source": "guardians force joined",
+      "target": "guardians continue running",
+      "value": 0.6284910440444946
+    },
+    {
+      "source": "career missile officer",
+      "target": "carried satellites missile",
+      "value": 0.5489981174468994
+    },
+    {
+      "source": "career missile officer",
+      "target": "missile defense agency",
+      "value": 0.7426095008850098
+    },
+    {
+      "source": "career missile officer",
+      "target": "satellites missile defense",
+      "value": 0.5749068856239319
+    },
+    {
+      "source": "sergeant selects sempersupra",
+      "target": "welcome team sempersupra",
+      "value": 0.6504002809524536
+    },
+    {
+      "source": "chief master sergeant",
+      "target": "congrats chief master",
+      "value": 0.6180397272109985
+    },
+    {
+      "source": "chief master sergeant",
+      "target": "role enlisted guardians",
+      "value": 0.5408177375793457
+    },
+    {
+      "source": "chief master sergeant",
+      "target": "role enlisted guardians",
+      "value": 0.5408177375793457
+    },
+    {
+      "source": "chief master sergeant",
+      "target": "chief space operations",
+      "value": 0.5100560188293457
+    },
+    {
+      "source": "chief master sergeant",
+      "target": "congratulations 2nd lieutenants",
+      "value": 0.5117816925048828
+    },
+    {
+      "source": "chief master sergeant",
+      "target": "lieutenants welcome team",
+      "value": 0.5198656916618347
+    },
+    {
+      "source": "chief master sergeant",
+      "target": "chief space operations",
+      "value": 0.5100560188293457
+    },
+    {
+      "source": "congrats chief master",
+      "target": "congratulations chief pogue",
+      "value": 0.6174063086509705
+    },
+    {
+      "source": "carried satellites missile",
+      "target": "missile defense agency",
+      "value": 0.6080825328826904
+    },
+    {
+      "source": "carried satellites missile",
+      "target": "satellites missile defense",
+      "value": 0.779792070388794
+    },
+    {
+      "source": "missile defense agency",
+      "target": "satellites missile defense",
+      "value": 0.6982002258300781
+    },
+    {
+      "source": "rt ussf_ssc spacesystemscommand",
+      "target": "spacemobilityconference hear ussf_ssc",
+      "value": 0.7945672273635864
+    },
+    {
+      "source": "rt ussf_ssc spacesystemscommand",
+      "target": "satellite refueled ussf_ssc",
+      "value": 0.5371156930923462
+    },
+    {
+      "source": "rt secafofficial secaf",
+      "target": "secafofficial secaf kendall",
+      "value": 0.7862111926078796
+    },
+    {
+      "source": "role enlisted guardians",
+      "target": "role enlisted guardians",
+      "value": 0.9999998807907104
+    },
+    {
+      "source": "role enlisted guardians",
+      "target": "spirit guardians spaceforce",
+      "value": 0.5762253999710083
+    },
+    {
+      "source": "role enlisted guardians",
+      "target": "inspire future guardians",
+      "value": 0.5646812319755554
+    },
+    {
+      "source": "role enlisted guardians",
+      "target": "lieutenants welcome team",
+      "value": 0.5416833758354187
+    },
+    {
+      "source": "role enlisted guardians",
+      "target": "spirit guardians spaceforce",
+      "value": 0.5762253999710083
+    },
+    {
+      "source": "role enlisted guardians",
+      "target": "inspire future guardians",
+      "value": 0.5646812319755554
+    },
+    {
+      "source": "role enlisted guardians",
+      "target": "lieutenants welcome team",
+      "value": 0.5416833758354187
+    },
+    {
+      "source": "saltzman delivered keynote",
+      "target": "keynote address afacolorado",
+      "value": 0.5106073617935181
+    },
+    {
+      "source": "state space force",
+      "target": "icymi space force",
+      "value": 0.5373108386993408
+    },
+    {
+      "source": "state space force",
+      "target": "space force excellence",
+      "value": 0.5344700813293457
+    },
+    {
+      "source": "space operations gen",
+      "target": "chief space operations",
+      "value": 0.7741274237632751
+    },
+    {
+      "source": "space operations gen",
+      "target": "important space day",
+      "value": 0.5365818738937378
+    },
+    {
+      "source": "space operations gen",
+      "target": "chief space operations",
+      "value": 0.7741274237632751
+    },
+    {
+      "source": "space operations gen",
+      "target": "space force excellence",
+      "value": 0.5369281768798828
+    },
+    {
+      "source": "spirit guardians spaceforce",
+      "target": "inspire future guardians",
+      "value": 0.6231763362884521
+    },
+    {
+      "source": "chief space operations",
+      "target": "chief space operations",
+      "value": 1.000000238418579
+    },
+    {
+      "source": "chief space operations",
+      "target": "space force excellence",
+      "value": 0.519555926322937
+    },
+    {
+      "source": "important space day",
+      "target": "space force excellence",
+      "value": 0.5097260475158691
+    },
+    {
+      "source": "hague work nasa",
+      "target": "hague guardian launch",
+      "value": 0.6430488228797913
+    },
+    {
+      "source": "inspire future guardians",
+      "target": "guardians continue running",
+      "value": 0.5664328336715698
+    },
+    {
+      "source": "inspire future guardians",
+      "target": "guardian culture build",
+      "value": 0.555705726146698
+    },
+    {
+      "source": "spacemobilityconference hear ussf_ssc",
+      "target": "satellite refueled ussf_ssc",
+      "value": 0.5365796089172363
+    },
+    {
+      "source": "congratulations 2nd lieutenants",
+      "target": "lieutenants welcome team",
+      "value": 0.6628876328468323
+    },
+    {
+      "source": "students toured nato",
+      "target": "nato space engagement",
+      "value": 0.5472007989883423
+    },
+    {
+      "source": "chief space operations",
+      "target": "space force excellence",
+      "value": 0.519555926322937
+    },
+    {
+      "source": "icymi space force",
+      "target": "space force excellence",
+      "value": 0.5021026134490967
+    },
+    {
+      "source": "orbit satellite refueled",
+      "target": "satellite refueled ussf_ssc",
+      "value": 0.6734439730644226
+    },
+    {
+      "source": "dod 2024 cost",
+      "target": "2024 cost living",
+      "value": 0.5121158361434937
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "nodes": [
+    {
+      "id": "achievements women country",
+      "group": 2
+    },
+    {
+      "id": "sotu secretservice duty",
+      "group": 2
+    },
+    {
+      "id": "wildfire danger high",
+      "group": 2
+    },
+    {
+      "id": "harmonization international customs",
+      "group": 2
+    },
+    {
+      "id": "civilian woman civil",
+      "group": 2
+    },
+    {
+      "id": "luna national guardsmen",
+      "group": 2
+    },
+    {
+      "id": "women dhsscitech leading",
+      "group": 2
+    },
+    {
+      "id": "ruling means parole",
+      "group": 2
+    },
+    {
+      "id": "environment women excel",
+      "group": 2
+    },
+    {
+      "id": "wildfires currently burning",
+      "group": 2
+    },
+    {
+      "id": "union address potus",
+      "group": 2
+    },
+    {
+      "id": "coasties work maritime",
+      "group": 2
+    },
+    {
+      "id": "ensures elections transparent",
+      "group": 2
+    },
+    {
+      "id": "exciting news tsa",
+      "group": 2
+    },
+    {
+      "id": "davis black civilian",
+      "group": 2
+    },
+    {
+      "id": "dhs_depsec international women",
+      "group": 2
+    },
+    {
+      "id": "secure state union",
+      "group": 2
+    },
+    {
+      "id": "fentanyl requires law",
+      "group": 2
+    },
+    {
+      "id": "rt secmayorkas womenshistorymonth",
+      "group": 2
+    },
+    {
+      "id": "customs processes strengthening",
+      "group": 2
+    },
+    {
+      "id": "air national guard",
+      "group": 2
+    },
+    {
+      "id": "cbp cbp cbptroymiller",
+      "group": 2
+    },
+    {
+      "id": "secmayorkas tonight potus",
+      "group": 2
+    },
+    {
+      "id": "rt secretservice congratulations",
+      "group": 2
+    },
+    {
+      "id": "mission talented women",
+      "group": 2
+    },
+    {
+      "id": "department agent luna",
+      "group": 2
+    },
+    {
+      "id": "service screening today",
+      "group": 2
+    },
+    {
+      "id": "international women day",
+      "group": 2
+    },
+    {
+      "id": "lesson fema_deanne learned",
+      "group": 2
+    },
+    {
+      "id": "ramadanmubarak https fsrmvoyrkm",
+      "group": 2
+    },
+    {
+      "id": "contributions women dhsworkforce",
+      "group": 2
+    },
+    {
+      "id": "thank women dhsworkforce",
+      "group": 2
+    },
+    {
+      "id": "parole processes individuals",
+      "group": 2
+    },
+    {
+      "id": "womenshistorymonth recognize celebrate",
+      "group": 2
+    },
+    {
+      "id": "secmayorkas joined danabashcnn",
+      "group": 2
+    },
+    {
+      "id": "service screening lasairport",
+      "group": 2
+    },
+    {
+      "id": "flight add tsa",
+      "group": 2
+    },
+    {
+      "id": "secretservice huge thank",
+      "group": 2
+    },
+    {
+      "id": "support election officials",
+      "group": 2
+    },
+    {
+      "id": "restore sites soon",
+      "group": 2
+    },
+    {
+      "id": "cisajen super tuesday",
+      "group": 2
+    },
+    {
+      "id": "fema_deanne today workforcewednesday",
+      "group": 2
+    },
+    {
+      "id": "grateful women role",
+      "group": 2
+    },
+    {
+      "id": "parole processes cubans",
+      "group": 2
+    },
+    {
+      "id": "stay tuned womenofdhs",
+      "group": 2
+    },
+    {
+      "id": "cbp kept nearly",
+      "group": 2
+    },
+    {
+      "id": "component domains restore",
+      "group": 2
+    },
+    {
+      "id": "suppress rampant counterfeiting",
+      "group": 2
+    },
+    {
+      "id": "rt secmayorkas thoughts",
+      "group": 2
+    },
+    {
+      "id": "cisajen 24 cybersecurity",
+      "group": 2
+    },
+    {
+      "id": "rt tsa_pacific tsa",
+      "group": 2
+    },
+    {
+      "id": "coast guard cutter",
+      "group": 2
+    },
+    {
+      "id": "combatting scourge fentanyl",
+      "group": 2
+    },
+    {
+      "id": "women role models",
+      "group": 2
+    },
+    {
+      "id": "secretservice secured state",
+      "group": 2
+    },
+    {
+      "id": "beginning ramadan evening",
+      "group": 2
+    },
+    {
+      "id": "luna family loved",
+      "group": 2
+    },
+    {
+      "id": "women history month",
+      "group": 2
+    },
+    {
+      "id": "stopping flow fentanyl",
+      "group": 2
+    },
+    {
+      "id": "23m counterfeit products",
+      "group": 2
+    },
+    {
+      "id": "reflection renewal ramadanmubarak",
+      "group": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "flight add tsa",
+      "target": "exciting news tsa",
+      "value": 0.5366371273994446
+    },
+    {
+      "source": "flight add tsa",
+      "target": "rt tsa_pacific tsa",
+      "value": 0.6082829236984253
+    },
+    {
+      "source": "secure state union",
+      "target": "union address potus",
+      "value": 0.5593129396438599
+    },
+    {
+      "source": "secure state union",
+      "target": "secretservice secured state",
+      "value": 0.5469496846199036
+    },
+    {
+      "source": "secretservice secured state",
+      "target": "secretservice huge thank",
+      "value": 0.6444419622421265
+    },
+    {
+      "source": "secretservice secured state",
+      "target": "sotu secretservice duty",
+      "value": 0.5615731477737427
+    },
+    {
+      "source": "secretservice secured state",
+      "target": "rt secretservice congratulations",
+      "value": 0.5935953855514526
+    },
+    {
+      "source": "civilian woman civil",
+      "target": "davis black civilian",
+      "value": 0.5168836116790771
+    },
+    {
+      "source": "reflection renewal ramadanmubarak",
+      "target": "beginning ramadan evening",
+      "value": 0.6032155752182007
+    },
+    {
+      "source": "reflection renewal ramadanmubarak",
+      "target": "ramadanmubarak https fsrmvoyrkm",
+      "value": 0.5642470717430115
+    },
+    {
+      "source": "customs processes strengthening",
+      "target": "harmonization international customs",
+      "value": 0.657238245010376
+    },
+    {
+      "source": "department agent luna",
+      "target": "luna family loved",
+      "value": 0.522362232208252
+    },
+    {
+      "source": "department agent luna",
+      "target": "luna national guardsmen",
+      "value": 0.7196311950683594
+    },
+    {
+      "source": "rt secmayorkas thoughts",
+      "target": "secmayorkas tonight potus",
+      "value": 0.823560357093811
+    },
+    {
+      "source": "rt secmayorkas thoughts",
+      "target": "rt secmayorkas womenshistorymonth",
+      "value": 0.7620635628700256
+    },
+    {
+      "source": "rt secmayorkas thoughts",
+      "target": "secmayorkas joined danabashcnn",
+      "value": 0.6442214250564575
+    },
+    {
+      "source": "luna national guardsmen",
+      "target": "air national guard",
+      "value": 0.5887439846992493
+    },
+    {
+      "source": "ruling means parole",
+      "target": "parole processes individuals",
+      "value": 0.648870587348938
+    },
+    {
+      "source": "ruling means parole",
+      "target": "parole processes cubans",
+      "value": 0.5716164112091064
+    },
+    {
+      "source": "parole processes individuals",
+      "target": "parole processes cubans",
+      "value": 0.732556939125061
+    },
+    {
+      "source": "lesson fema_deanne learned",
+      "target": "fema_deanne today workforcewednesday",
+      "value": 0.6519867181777954
+    },
+    {
+      "source": "mission talented women",
+      "target": "grateful women role",
+      "value": 0.5585861802101135
+    },
+    {
+      "source": "mission talented women",
+      "target": "women role models",
+      "value": 0.525317907333374
+    },
+    {
+      "source": "mission talented women",
+      "target": "achievements women country",
+      "value": 0.5084269642829895
+    },
+    {
+      "source": "thank women dhsworkforce",
+      "target": "dhs_depsec international women",
+      "value": 0.6101940870285034
+    },
+    {
+      "source": "thank women dhsworkforce",
+      "target": "grateful women role",
+      "value": 0.538899838924408
+    },
+    {
+      "source": "thank women dhsworkforce",
+      "target": "contributions women dhsworkforce",
+      "value": 0.8335806131362915
+    },
+    {
+      "source": "thank women dhsworkforce",
+      "target": "women dhsscitech leading",
+      "value": 0.608345627784729
+    },
+    {
+      "source": "thank women dhsworkforce",
+      "target": "stay tuned womenofdhs",
+      "value": 0.5812671184539795
+    },
+    {
+      "source": "dhs_depsec international women",
+      "target": "international women day",
+      "value": 0.5443110466003418
+    },
+    {
+      "source": "dhs_depsec international women",
+      "target": "contributions women dhsworkforce",
+      "value": 0.66957688331604
+    },
+    {
+      "source": "dhs_depsec international women",
+      "target": "women dhsscitech leading",
+      "value": 0.632750391960144
+    },
+    {
+      "source": "international women day",
+      "target": "grateful women role",
+      "value": 0.5036463737487793
+    },
+    {
+      "source": "international women day",
+      "target": "women history month",
+      "value": 0.6141598224639893
+    },
+    {
+      "source": "international women day",
+      "target": "womenshistorymonth recognize celebrate",
+      "value": 0.550381600856781
+    },
+    {
+      "source": "international women day",
+      "target": "achievements women country",
+      "value": 0.5773043632507324
+    },
+    {
+      "source": "coast guard cutter",
+      "target": "coasties work maritime",
+      "value": 0.5604323148727417
+    },
+    {
+      "source": "secretservice huge thank",
+      "target": "sotu secretservice duty",
+      "value": 0.6683446764945984
+    },
+    {
+      "source": "secretservice huge thank",
+      "target": "rt secretservice congratulations",
+      "value": 0.6916614770889282
+    },
+    {
+      "source": "grateful women role",
+      "target": "women role models",
+      "value": 0.6302266120910645
+    },
+    {
+      "source": "grateful women role",
+      "target": "contributions women dhsworkforce",
+      "value": 0.5776857137680054
+    },
+    {
+      "source": "grateful women role",
+      "target": "achievements women country",
+      "value": 0.5597401857376099
+    },
+    {
+      "source": "women role models",
+      "target": "contributions women dhsworkforce",
+      "value": 0.5539945363998413
+    },
+    {
+      "source": "women role models",
+      "target": "environment women excel",
+      "value": 0.572799801826477
+    },
+    {
+      "source": "women role models",
+      "target": "achievements women country",
+      "value": 0.5212907791137695
+    },
+    {
+      "source": "contributions women dhsworkforce",
+      "target": "women dhsscitech leading",
+      "value": 0.7121616005897522
+    },
+    {
+      "source": "contributions women dhsworkforce",
+      "target": "stay tuned womenofdhs",
+      "value": 0.568921685218811
+    },
+    {
+      "source": "contributions women dhsworkforce",
+      "target": "achievements women country",
+      "value": 0.5430184602737427
+    },
+    {
+      "source": "combatting scourge fentanyl",
+      "target": "fentanyl requires law",
+      "value": 0.6118149757385254
+    },
+    {
+      "source": "combatting scourge fentanyl",
+      "target": "stopping flow fentanyl",
+      "value": 0.6183853149414062
+    },
+    {
+      "source": "sotu secretservice duty",
+      "target": "rt secretservice congratulations",
+      "value": 0.575431227684021
+    },
+    {
+      "source": "cisajen 24 cybersecurity",
+      "target": "cisajen super tuesday",
+      "value": 0.5770233273506165
+    },
+    {
+      "source": "secmayorkas tonight potus",
+      "target": "rt secmayorkas womenshistorymonth",
+      "value": 0.6888351440429688
+    },
+    {
+      "source": "secmayorkas tonight potus",
+      "target": "secmayorkas joined danabashcnn",
+      "value": 0.673925518989563
+    },
+    {
+      "source": "component domains restore",
+      "target": "restore sites soon",
+      "value": 0.547805666923523
+    },
+    {
+      "source": "suppress rampant counterfeiting",
+      "target": "23m counterfeit products",
+      "value": 0.6248558759689331
+    },
+    {
+      "source": "service screening lasairport",
+      "target": "service screening today",
+      "value": 0.6759747862815857
+    },
+    {
+      "source": "exciting news tsa",
+      "target": "rt tsa_pacific tsa",
+      "value": 0.6024783849716187
+    },
+    {
+      "source": "cbp kept nearly",
+      "target": "cbp cbp cbptroymiller",
+      "value": 0.6574934124946594
+    },
+    {
+      "source": "fentanyl requires law",
+      "target": "stopping flow fentanyl",
+      "value": 0.5750619173049927
+    },
+    {
+      "source": "women dhsscitech leading",
+      "target": "stay tuned womenofdhs",
+      "value": 0.5339398384094238
+    },
+    {
+      "source": "women history month",
+      "target": "womenshistorymonth recognize celebrate",
+      "value": 0.5417070388793945
+    },
+    {
+      "source": "women history month",
+      "target": "achievements women country",
+      "value": 0.5646539926528931
+    },
+    {
+      "source": "rt secmayorkas womenshistorymonth",
+      "target": "secmayorkas joined danabashcnn",
+      "value": 0.5853407979011536
+    },
+    {
+      "source": "wildfire danger high",
+      "target": "wildfires currently burning",
+      "value": 0.7292898893356323
+    },
+    {
+      "source": "support election officials",
+      "target": "ensures elections transparent",
+      "value": 0.529579222202301
+    }
+  ]
+}

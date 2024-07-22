@@ -1,0 +1,27 @@
+.node_query-input-container {
+  width: 100%;
+  height: auto;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 5px;
+  font-size: 12px;
+}
+
+.node-query-input-group {
+  width: 100%;
+}
+
+.node-query-input-select {
+  border: none;
+  border-bottom: 1px solid #252525;
+  font-size: 12px;
+  width: 50%;
+  margin-left: 8px;
+}
+
+.node-query-input-text {
+  font-size: 12px;
+  width: 50%;
+  border: none;
+  border-bottom: 1px solid #252525;
+}
