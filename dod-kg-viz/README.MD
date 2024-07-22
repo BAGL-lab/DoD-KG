@@ -41,8 +41,8 @@ These instructions will get you a copy of the project up and running on your loc
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/BAGL-lab/DoD-KG/dod-kg-viz
-$ cd dod-kg-viz
+$ git clone https://github.com/BAGL-lab/DoD-KG.git
+$ cd DoD-KG/dod-kg-viz
 ```
 
 To install and set up the library, run:
@@ -76,10 +76,10 @@ inside your local `dist/` folder
 
 ## Authors
 
-* **John Doe** - *Initial work* - [JohnDoe](https://github.com/JohnDoe)
+* **Suphanut Jamonnak** - *Initial work* - [Github](https://github.com/sjamonnak)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-[MIT License](https://andreasonny.mit-license.org/2019) © Andrea SonnY
+[None]() © None
