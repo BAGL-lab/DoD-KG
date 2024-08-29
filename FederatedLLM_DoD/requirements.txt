@@ -1,0 +1,15 @@
+accelerate
+appdirs
+loralib
+bitsandbytes
+black
+black[jupyter]
+datasets==2.14.6
+fire
+git+https://github.com/huggingface/peft.git
+git+https://github.com/huggingface/transformers.git
+sentencepiece
+gradio==4.25     
+sentencepiece
+urllib3==1.26 
+pyarrow==9.0.0          
