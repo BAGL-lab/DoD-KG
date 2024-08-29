@@ -6,7 +6,6 @@ from deepeval.test_case import LLMTestCase
 from deepeval.dataset import EvaluationDataset
 import os
 
-os.environ['OPENAI_API_KEY'] = "sk-proj-PYPPVr3lPXDvKqHHTeD7T3BlbkFJvGxsvHhYCXACc0STIG0V"
 q1="What is the budget request for FY25 for the Department of the Air Force?"
 a1="The Department of the Air Force unveiled a $217.5B budget request for FY25 designed to continue modernizing the Air Force and Space Force, maintain readiness, and address key capability gaps while investing to manage risks that are increasing with time."
 q2='What activity did the Marines from the 9th Engineer Support Battalion engage in at Warrior Shield 24?'
