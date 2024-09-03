@@ -1,18 +1,18 @@
 <h1 align="center">
   <img src="assets/title.png" width="75%">
   <br>
-  Shepherd
+   FederatedLLM
   <br>
 </h1>
-<h4 align="center"><em><span style="font-size:18pt"> A Platform Supporting Federated Instruction Tuning </span></em></h4>
+<h4 align="center"><em><span style="font-size:18pt"> A Finetuned Federated LLM  </span></em></h4>
 
 <p align="center">
   <a href="#Overview">Overview</a> •
-  <a href="https://arxiv.org/pdf/2305.05644.pdf">Paper</a> •
   <a href="#Installation">Installation</a> •
   <a href="#Data_Preparation">Data_Preparation</a> •
   <a href="#Federated_Finetuning">Federated_Finetuning</a> •
   <a href="#Inference">Inference</a> •
+  <a href="https://arxiv.org/pdf/2305.05644.pdf">Paper</a> •
   <a href="#Citation">Citation</a> 
 </p>
 
@@ -24,14 +24,6 @@
 
 Recent advancements in fine-tuning large language models (LLMs) have leveraged instructions created by humans or APIs (such as ChatGPT and GPT-4) to revolutionize NLP research and industry applications. However, the collection of instructions from a wide array of individuals presents challenges in cost and privacy. For instance, collecting vast amounts of daily conversations from users is a valuable means of providing guidance for LLMs, enabling them to generate authentic and genuine responses. However, privacy concerns may hinder users from sharing their conversations, resulting in a limited quantity of instructions that are not fully representative of the target population. Federated Learning, a well-studied and well-developed learning approach, provides a solution to addresses these challenges and paves the way for designing personalized LLMs tailored to individual users.
 
-This repository, offers a foundational framework for exploring federated finetuning of LLMs using heterogeneous instructions across diverse categories. The framework is designed for ease of use, adaptability, and scalability to accommodate large datasets.
-
-## Paper
-
-We are pleased to share our [***FedIT***](https://arxiv.org/pdf/2305.05644.pdf) [Paper], "*Towards Building the Federated GPT: Federated Instruction Tuning.*" We kindly invite you to read the paper for an in-depth understanding of Federated Instruction Tuning for LLMs and further insights into our repository.
-<p align="center">
-  <img src="assets/FedIT.png" width="100%">
-</p>
 
 ## Installation 
 
@@ -122,7 +114,12 @@ python GlobalModel_generate.py \
       
 ```
 
+## Paper
 
+The model is based on the published paper [***FedIT***](https://arxiv.org/pdf/2305.05644.pdf) [Paper], "*Towards Building the Federated GPT: Federated Instruction Tuning.*"
+<p align="center">
+  <img src="assets/FedIT.png" width="100%">
+</p>
 ## Citation
 
 Please cite our FedIT paper and this repo if you find our repository helpful for your research. Thank you!
