@@ -116,7 +116,7 @@ python GlobalModel_generate.py \
 
 ## Paper
 
-The model is based on the published paper [***FedIT***](https://arxiv.org/pdf/2305.05644.pdf) [Paper], "*Towards Building the Federated GPT: Federated Instruction Tuning.*"
+The model is refer to the published paper [***FedIT***](https://arxiv.org/pdf/2305.05644.pdf) [Paper], "*Towards Building the Federated GPT: Federated Instruction Tuning.*" and the github {\url{https://github.com/JayZhang42/FederatedGPT-Shepherd}}.
 <p align="center">
   <img src="assets/FedIT.png" width="100%">
 </p>
