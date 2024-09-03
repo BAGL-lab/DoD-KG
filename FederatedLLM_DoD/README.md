@@ -12,7 +12,7 @@
   <a href="#Data_Preparation">Data_Preparation</a> •
   <a href="#Federated_Finetuning">Federated_Finetuning</a> •
   <a href="#Inference">Inference</a> •
-  <a href="https://arxiv.org/pdf/2305.05644.pdf">Paper</a> •
+  <a href="https://arxiv.org/pdf/2305.05644.pdf">Reference</a> •
   <a href="#Citation">Citation</a> 
 </p>
 
@@ -51,13 +51,7 @@ The first version of `databricks-dolly-15k` contains 8 Categories, with the dist
   <img src="assets/twodonuts.png" width="150%">
 </p>
 
-Without federated learning, the model can be trained on only the particular local instruction categories of each user (left) due to privacy or cost issue. By implementing our Federated instruction tuning ([***FedIT***](https://arxiv.org/pdf/2305.05644.pdf)) framework with this repo *Shepherd*, the LLM can be trained on the local instruction datasets of all clients with greater diversity and quantity of data points that cover the entire range of the subject matter (right).
-
-The following figure presents an illustrative depiction of the category distributions among each client, serving to exemplify the heterogeneity nature of clients' instructions.
-
-<p align="center">
-  <img src="assets/hetero.png" width="150%">
-</p>
+As an 8-category data example shown above, the distribution of each category is shown in the following subfigure provided on the right. Without federated learning, the model can be trained on only each user's particular local instruction categories (left) due to privacy or cost issues. By implementing the Federated instruction tuning ([***FedIT***](https://arxiv.org/pdf/2305.05644.pdf)) framework, the LLM can be trained on the local instruction datasets of all clients with greater diversity and quantity of data points that cover the entire range of the subject matter (right).
 
 ### Use your own data
 
@@ -66,7 +60,7 @@ You can simply modify `client_data_allocation.py` to load your own  dataset for 
 
 ## Federated_Finetuning
 
-To fully leverage the computational resources of each participating client, our lightweight Federated Learning framework employs the well-established parameter-efficient method, [LoRA](https://github.com/microsoft/LoRA), for conducting local training. The local training process is built upon the implementations of Hugging Face's [PEFT](https://github.com/huggingface/peft), Tim Dettmers' [bitsandbytes](https://github.com/TimDettmers/bitsandbytes), and the [Alpaca-lora](https://github.com/tloen/alpaca-lora), enabling the training to be completed within hours on a single NVIDIA TITAN RTX.
+To fully leverage the computational resources of each participating client, the lightweight Federated Learning framework employs the well-established parameter-efficient method, [LoRA](https://github.com/microsoft/LoRA), for conducting local training. The local training process is built upon the implementations of Hugging Face's [PEFT](https://github.com/huggingface/peft), Tim Dettmers' [bitsandbytes](https://github.com/TimDettmers/bitsandbytes), and the [Alpaca-lora](https://github.com/tloen/alpaca-lora), enabling the training to be completed within hours on a single NVIDIA TITAN RTX.
 
 Example usage:
 ```bash
@@ -98,7 +92,7 @@ python main.py --global_model 'chavinlo/alpaca-native'\
       --group_by_length
 ```
 
-Our framework supports numerous popular LLMs, such as [LLaMA](https://github.com/facebookresearch/llama), [Alpaca](https://github.com/tatsu-lab/stanford_alpaca), [Vicuna](https://vicuna.lmsys.org/), [Baize](https://github.com/project-baize/baize-chatbot), and others. We welcome any pull requests that adapt our code to support additional models or datasets.
+This framework supports numerous popular LLMs, such as [LLaMA](https://github.com/facebookresearch/llama), [Alpaca](https://github.com/tatsu-lab/stanford_alpaca), [Vicuna](https://vicuna.lmsys.org/), [Baize](https://github.com/project-baize/baize-chatbot), and others.
 
 
 ## Inference 
@@ -114,15 +108,16 @@ python GlobalModel_generate.py \
       
 ```
 
-## Paper
+## Reference
 
 The model is refer to the published paper [***FedIT***](https://arxiv.org/pdf/2305.05644.pdf) [Paper], "*Towards Building the Federated GPT: Federated Instruction Tuning.*" and the github https://github.com/JayZhang42/FederatedGPT-Shepherd.
 <p align="center">
   <img src="assets/FedIT.png" width="100%">
 </p>
+
 ## Citation
 
-Please cite our FedIT paper and this repo if you find our repository helpful for your research. Thank you!
+Please cite FedIT paper and this repo if you find the repository helpful for your research. Thank you!
 ```
 @misc{zhang2023building,
       title={Towards Building the Federated GPT: Federated Instruction Tuning}, 
@@ -144,9 +139,6 @@ Please cite our FedIT paper and this repo if you find our repository helpful for
 }
 ```
 
-## Note!
-
-We are constantly working to enhance this framework by resolving bugs and extending its functionality and simulation capabilities. We welcome pull requests that adapt our code to support additional research goals, such as benchmarking of models and datasets, algorithmic enhancements, and hardware simulation.
 
 
 
